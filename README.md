@@ -12,7 +12,7 @@ The artifact can be accessed in two ways (however, to replicate experiment resul
 
 - GitHub Repository: The primary source code and replication package are available on GitHub. You can clone or download the repository from  https://github.com/jeffchen006/Trace2Inv-Invariant-Study-FSE24.git
 
-- Docker Hub: For a stable version of the artifact, refer to the DockerHub link (zhiychen597/trace2inv-artifact-fse2024), which ensures a preserved version as cited in the paper. 
+- Docker Hub: For a stable version of the artifact, refer to the DockerHub link ([zhiychen597/trace2inv-artifact-fse2024](https://hub.docker.com/repository/docker/zhiychen597/trace2inv-artifact-fse2024/general)), which ensures a preserved version as cited in the paper. 
 
 For results related to the invariant study discussed in the paper, please refer to a separate repository available at [another separate repository](https://github.com/jeffchen006/Trace2Inv-Invariant-Study-FSE24)
 
@@ -71,7 +71,7 @@ To install Docker please see one of the following resources
 
 After installing Docker, please run the following command to pull the docker image from Docker Hub:
 ```
-sudo docker pull XXX
+sudo docker pull zhiychen597/trace2inv-artifact-fse2024:latest
 ```
 
 
