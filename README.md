@@ -82,13 +82,13 @@ sudo docker pull zhiychen597/trace2inv-artifact-fse2024:latest
 
 Step 1: Start a temporary container using the Docker image.
 ```
-sudo docker run -it --rm zhiychen597/trace2inv:latest bash
+sudo docker run -it --rm zhiychen597/trace2inv-artifact-fse2024:latest bash
 ```
 
 
 Step 2: To verify that the Docker image is working correctly, run the following command:
 ```
-./python3.10 main.py AC
+python3.10 main.py AC
 ```
 
 If the above command executes successfully, the Docker image is functioning correctly. The output should display the following message:
