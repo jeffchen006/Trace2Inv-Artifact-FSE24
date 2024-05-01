@@ -9,8 +9,14 @@ To install Docker please see one of the following resources
 
 After installing Docker, please run the following command to pull the docker image from Docker Hub:
 ```
-sudo docker pull XXX
+sudo docker pull zhiychen597/trace2inv-artifact-fse2024:latest
 ```
+
+Start a temporary container using the Docker image.
+```
+sudo docker run -it --rm zhiychen597/trace2inv:latest bash
+```
+
 
 
 ### A simple test:

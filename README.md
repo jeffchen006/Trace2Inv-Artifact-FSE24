@@ -75,8 +75,18 @@ sudo docker pull zhiychen597/trace2inv-artifact-fse2024:latest
 ```
 
 
-### A simple test:
-To verify that the Docker image is working correctly, run the following command:
+
+
+### Execution:
+
+
+Step 1: Start a temporary container using the Docker image.
+```
+sudo docker run -it --rm zhiychen597/trace2inv:latest bash
+```
+
+
+Step 2: To verify that the Docker image is working correctly, run the following command:
 ```
 ./python3.10 main.py AC
 ```
@@ -93,16 +103,9 @@ len(txList3):  306
 ```
 
 
-### Execution:
 
 
-Step 1: Start a temporary container using the Docker image.
-```
-sudo docker run -it --rm zhiychen597/trace2inv:latest bash
-```
-
-
-Step 2: Execute Invariant Generation Script
+Step 3: Execute Invariant Generation Script
 Within the Docker environment, initiate the invariant generation process by executing the logs.sh script:
 
 ```
@@ -141,7 +144,7 @@ These scripts perform the following functions:
 
 
 
-Step 3: Check Execution Results
+Step 4: Check Execution Results
 
 Compare RQ1RQ3Results/RQ1RQ3-Results.txt with RQ1RQ3Results/RQ1RQ3-Expected.txt and Tables 5 & 7 in the paper.
 
