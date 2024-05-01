@@ -1,0 +1,167 @@
+index (benchmark, trainingSet, testingSet size)
+0 ['CreamFi1_1', 4, 1, 5]
+1 ['Punk_1', 20, 8, 28]
+2 ['Warp_interface', 22, 9, 31]
+3 ['Punk_3', 26, 11, 37]
+4 ['DODO', 30, 12, 42]
+5 ['Punk_2', 30, 12, 42]
+6 ['UmbrellaNetwork', 42, 17, 59]
+7 ['Opyn', 47, 20, 67]
+8 ['CreamFi2_4', 69, 29, 98]
+9 ['Warp', 104, 44, 148]
+10 ['CreamFi2_3', 183, 78, 261]
+11 ['ValueDeFi', 207, 88, 295]
+12 ['BeanstalkFarms_interface', 215, 91, 306]
+13 ['XCarnival', 240, 102, 342]
+14 ['RariCapital2_3', 283, 121, 404]
+15 ['CheeseBank_3', 390, 167, 557]
+16 ['CheeseBank_2', 416, 177, 593]
+17 ['RariCapital2_1', 430, 184, 614]
+18 ['CheeseBank_1', 431, 184, 615]
+19 ['RariCapital1', 466, 199, 665]
+20 ['Yearn1', 468, 197, 665]
+21 ['bZx2', 498, 213, 711]
+22 ['RariCapital2_2', 527, 225, 752]
+23 ['RariCapital2_4', 544, 232, 776]
+24 ['CreamFi2_2', 629, 269, 898]
+25 ['CreamFi2_1', 890, 380, 1270]
+26 ['RevestFi_interface', 1025, 438, 1463]
+27 ['RevestFi', 1145, 490, 1635]
+28 ['VisorFi', 1186, 506, 1692]
+29 ['Harvest1_fUSDT', 1436, 614, 2050]
+30 ['Harvest2_fUSDC', 1513, 648, 2161]
+31 ['PickleFi', 3808, 1631, 5439]
+32 ['BeanstalkFarms', 4050, 1735, 5785]
+33 ['InverseFi', 4594, 1968, 6562]
+34 ['Nomad', 10939, 4688, 15627]
+35 ['Eminence', 14413, 6176, 20589]
+36 ['IndexFi', 14449, 6192, 20641]
+37 ['Yearn1_interface', 18679, 8002, 26681]
+38 ['HarmonyBridge', 22505, 9644, 32149]
+39 ['PolyNetwork', 31157, 13352, 44509]
+40 ['CreamFi1_2', 40729, 17455, 58184]
+41 ['RoninNetwork', 66742, 28603, 95345]
+implementation == interface:  27
+['RevestFi', 'Yearn1_interface', 'RoninNetwork', 'Yearn1', 'Warp_interface', 'UmbrellaNetwork', 'Warp', 'InverseFi', 'Opyn', 'CheeseBank_1', 'Punk_1', 'RariCapital1', 'VisorFi', 'RevestFi_interface', 'IndexFi', 'Punk_2', 'ValueDeFi', 'CreamFi1_2', 'Punk_3', 'HarmonyBridge', 'CheeseBank_3', 'Eminence', 'PolyNetwork', 'bZx2', 'PickleFi', 'CheeseBank_2', 'XCarnival']
+0xa81bd16aa6f6b25e66965a2f842e9c806c0aa11f
+1636
+0xe0b0c2672b760bef4e2851e91c69c8c0ad135c6987bbf1f43f5846d89e691428
+0xacd43e627e64355f1861cec6d3a6688b31a6f952
+26682
+0x59faab5a1911618064f1ffa1e4649d85c99cfd9f0d64dcebbc1af7d7630da98b
+0x8407dc57739bcda7aa53ca6f12f82f9d51c2f21e
+95346
+0xc28fad5e8d5e0ce6a2eaf67b6687be5d58113e16be590824d6cfa1a94467d0b7
+0x9c211bfa6dc329c5e757a223fb72f5481d676dc1
+666
+0x59faab5a1911618064f1ffa1e4649d85c99cfd9f0d64dcebbc1af7d7630da98b
+0xba539b9a5c2d412cb10e5770435f362094f9541c
+32
+0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090
+0xb3fb1d01b07a706736ca175f827e4f56021b85de
+60
+0x33479bcfbc792aa0f8103ab0d7a3784788b5b0e1467c81ffbed1b7682660b4fa
+0x6046c3Ab74e6cE761d218B9117d5c63200f4b406
+149
+0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090
+0x7Fcb7DAC61eE35b3D4a51117A7c58D53f0a8a670
+6563
+0x600373f67521324c8068cfd025f121a0843d57ec813411661b07edc5ff781842
+0x951d51baefb72319d9fbe941e1615938d89abfe2
+68
+0xa858463f30a08c6f3410ed456e59277fbe62ff14225754d2bb0b4f6a75fdc8ad
+0x5E181bDde2fA8af7265CB3124735E9a13779c021
+616
+0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc
+0x3BC6aA2D25313ad794b2D67f83f21D341cc3f5fb
+29
+0x597d11c05563611cb4ad4ed4c57ca53bbe3b7d3fefc37d1ef0724ad58904742b
+0xec260f5a7a729bb3d0c42d292de159b4cb1844a3
+666
+0x4764dc6ff19a64fc1b0e57e735661f64d97bc1c44e026317be8765358d0a7392
+0xc9f27a50f82571c1c8423a42970613b8dbda14ef
+1693
+0x69272d8c84d67d1da2f6425b339192fa472898dce936f24818fda415c1c1ff3f
+0x2320a28f52334d62622cc2eafa15de55f9987ed9
+1464
+0xe0b0c2672b760bef4e2851e91c69c8c0ad135c6987bbf1f43f5846d89e691428
+0x5bd628141c62a901e0a83e630ce5fafa95bbdee4
+20642
+0x44aad3b853866468161735496a5d9cc961ce5aa872924c5d78673076b1cd95aa
+0x1F3b04c8c96A31C7920372FFa95371C80A4bfb0D
+43
+0x597d11c05563611cb4ad4ed4c57ca53bbe3b7d3fefc37d1ef0724ad58904742b
+0xddd7df28b1fb668b77860b473af819b03db61101
+296
+0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a
+0xd06527d5e56a3495252a528c4987003b712860ee
+58185
+0x0016745693d68d734faa408b94cdf2d6c95f511b50f47b03909dc599c1dd9ff6
+0x929cb86046E421abF7e1e02dE7836742654D49d6
+38
+0x597d11c05563611cb4ad4ed4c57ca53bbe3b7d3fefc37d1ef0724ad58904742b
+0xf9fb1c508ff49f78b60d3a96dea99fa5d7f3a8a6
+32150
+0x27981c7289c372e601c9475e5b5466310be18ed10b59d1ac840145f6e7804c97
+0xA80e737Ded94E8D2483ec8d2E52892D9Eb94cF1f
+558
+0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc
+0x5ade7aE8660293F2ebfcEfaba91d141d72d221e8
+20590
+0x3503253131644dd9f52802d071de74e456570374d586ddd640159cf6fb9b8ad8
+0x250e76987d838a75310c34bf422ea9f1ac4cc906
+44510
+0xad7a2c70c958fcd3effbf374d0acf3774a9257577625ae4c838e24b0de17602a
+0x85ca13d8496b2d22d6518faeb524911e096dd7e0
+712
+0x762881b07feb63c436dee38edd4ff1f7a74c33091e534af56c9f7d49b5ecac15
+0x6847259b2B3A4c17e7c43C54409810aF48bA5210
+5440
+0xe72d4e7ba9b5af0cf2a8cfb1e30fd9f388df0ab3da79790be842bfbed11087b0
+0x4c2a8A820940003cfE4a16294B239C8C55F29695
+594
+0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc
+0x5417da20ac8157dd5c07230cfc2b226fdcfc5663
+343
+0x51cbfd46f21afb44da4fa971f220bd28a14530e1d5da5009cfbdfee012e57e35
+********************
+RevestFi 1145 490 1635
+Yearn1_interface 18679 8002 26681
+RoninNetwork 66742 28603 95345
+Yearn1 468 197 665
+Warp_interface 22 9 31
+UmbrellaNetwork 42 17 59
+Warp 104 44 148
+InverseFi 4594 1968 6562
+Opyn 47 20 67
+CheeseBank_1 431 184 615
+Punk_1 20 8 28
+RariCapital1 466 199 665
+VisorFi 1186 506 1692
+RevestFi_interface 1025 438 1463
+IndexFi 14449 6192 20641
+Punk_2 30 12 42
+ValueDeFi 207 88 295
+CreamFi1_2 40729 17455 58184
+Punk_3 26 11 37
+HarmonyBridge 22505 9644 32149
+CheeseBank_3 390 167 557
+Eminence 14413 6176 20589
+PolyNetwork 31157 13352 44509
+bZx2 498 213 711
+PickleFi 3808 1631 5439
+CheeseBank_2 416 177 593
+XCarnival 240 102 342
+implementation != interface:  15
+['BeanstalkFarms_interface', 'CreamFi1_1', 'RariCapital2_3', 'RariCapital2_1', 'RariCapital2_2', 'CreamFi2_4', 'CreamFi2_1', 'Nomad', 'RariCapital2_4', 'CreamFi2_3', 'DODO', 'CreamFi2_2', 'Harvest1_fUSDT', 'BeanstalkFarms', 'Harvest2_fUSDC']
+['./result/0x67b66c99d3eb37fa76aa3ed1ff33e8e39f0b9c7a-Bank.test.violation.inv', './result/0x5E181bDde2fA8af7265CB3124735E9a13779c021-CErc20.test.violation.inv', './result/0xba539b9a5c2d412cb10e5770435f362094f9541c-WarpControl.test.violation.inv', './result/0xc9f27a50f82571c1c8423a42970613b8dbda14ef-RewardsHypervisor.test.violation.inv', './result/0x6046c3Ab74e6cE761d218B9117d5c63200f4b406-WarpVaultSC.test.violation.inv', './result/0xb8919522331c59f5c16bdfaa6a121a6e03a91f62-TransparentUpgradeableProxy.test.violation.inv', './result/0x4c2a8A820940003cfE4a16294B239C8C55F29695-CErc20.test.violation.inv', './result/0x1F3b04c8c96A31C7920372FFa95371C80A4bfb0D-CompoundModel.test.violation.inv', './result/0x250e76987d838a75310c34bf422ea9f1ac4cc906-LockProxy.test.violation.inv', './result/0xA80e737Ded94E8D2483ec8d2E52892D9Eb94cF1f-CErc20.test.violation.inv', './result/0x929cb86046E421abF7e1e02dE7836742654D49d6-CompoundModel.test.violation.inv', './result/0x3BC6aA2D25313ad794b2D67f83f21D341cc3f5fb-CompoundModel.test.violation.inv', './result/0xb3fb1d01b07a706736ca175f827e4f56021b85de-StakingRewards.test.violation.inv', './result/0x5417da20ac8157dd5c07230cfc2b226fdcfc5663-XToken.test.violation.inv']
+./result/0x5417da20ac8157dd5c07230cfc2b226fdcfc5663-XToken.test.violation.inv
+[1, 1, 0, 1, 1, 1, 0, 1, 1, 1]
+[0.9838709677419355, 0.33333333333333337, 1.0, 0.4897959183673469, 0.9838709677419355, 0.8333333333333334, 1.0, 0.9824561403508771, 0.6923076923076923, 0.6666666666666667, 0.125]
+['0x5E181bDde2fA8af7265CB3124735E9a13779c021', '0xba539b9a5c2d412cb10e5770435f362094f9541c', '0xc9f27a50f82571c1c8423a42970613b8dbda14ef', '0x6046c3Ab74e6cE761d218B9117d5c63200f4b406', '0x4c2a8A820940003cfE4a16294B239C8C55F29695', '0x1F3b04c8c96A31C7920372FFa95371C80A4bfb0D', '0x250e76987d838a75310c34bf422ea9f1ac4cc906', '0xA80e737Ded94E8D2483ec8d2E52892D9Eb94cF1f', '0x929cb86046E421abF7e1e02dE7836742654D49d6', '0x3BC6aA2D25313ad794b2D67f83f21D341cc3f5fb', '0xb3fb1d01b07a706736ca175f827e4f56021b85de']
+['CheeseBank_1.json', 'Warp_interface.json', 'VisorFi.json', 'Warp.json', 'CheeseBank_2.json', 'Punk_2.json', 'PolyNetwork.json', 'CheeseBank_3.json', 'Punk_3.json', 'Punk_1.json', 'UmbrellaNetwork.json']
+ ========================== Summary ==========================
+Captured Hacked Contract: {'CheeseBank_3.json', 'Punk_2.json', 'Punk_1.json', 'Warp_interface.json', 'CheeseBank_2.json', 'Warp.json', 'Punk_3.json', 'CheeseBank_1.json'}
+True Positive: 8 out of total  11  benchmarks
+False Positive: 0.7355122745311928
+average invariant number per contract: 2054.181818181818

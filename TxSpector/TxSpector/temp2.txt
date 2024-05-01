@@ -1,0 +1,88 @@
+['example/0x6eabef1bf310a1361041d97897c192581cd9870f6a39040cd24d7de2335b4546.txt', 'example/0xe72d4e7ba9b5af0cf2a8cfb1e30fd9f388df0ab3da79790be842bfbed11087b0.txt', 'example/0xe0b0c2672b760bef4e2851e91c69c8c0ad135c6987bbf1f43f5846d89e691428.txt', 'example/0x44aad3b853866468161735496a5d9cc961ce5aa872924c5d78673076b1cd95aa.txt', 'example/0x37085f336b5d3e588e37674544678f8cb0fc092a6de5d83bd647e20e5232897b.txt', 'example/0x59faab5a1911618064f1ffa1e4649d85c99cfd9f0d64dcebbc1af7d7630da98b.txt', 'example/0x33479bcfbc792aa0f8103ab0d7a3784788b5b0e1467c81ffbed1b7682660b4fa.txt', 'example/0xad7a2c70c958fcd3effbf374d0acf3774a9257577625ae4c838e24b0de17602a.txt', 'example/0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc.txt', 'example/0x0fc6d2ca064fc841bc9b1c1fad1fbb97bcea5c9a1b2b66ef837f1227e06519a6.txt', 'example/0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090.txt', 'example/0x27981c7289c372e601c9475e5b5466310be18ed10b59d1ac840145f6e7804c97.txt', 'example/0x395675b56370a9f5fe8b32badfa80043f5291443bd6c8273900476880fb5221e.txt', 'example/0x0fe2542079644e107cbf13690eb9c2c65963ccb79089ff96bfaf8dced2331c92.txt', 'example/0xab486012f21be741c9e674ffda227e30518e8a1e37a5f1d58d0b0d41f6e76530.txt', 'example/0x762881b07feb63c436dee38edd4ff1f7a74c33091e534af56c9f7d49b5ecac15.txt', 'example/0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a.txt', 'example/0x61497a1a8a8659a06358e130ea590e1eed8956edbd99dbb2048cfb46850a8f17.txt', 'example/0x3503253131644dd9f52802d071de74e456570374d586ddd640159cf6fb9b8ad8.txt', 'example/0x4764dc6ff19a64fc1b0e57e735661f64d97bc1c44e026317be8765358d0a7392.txt', 'example/0x600373f67521324c8068cfd025f121a0843d57ec813411661b07edc5ff781842.txt', 'example/0x35f8d2f572fceaac9288e5d462117850ef2694786992a8c3f6d02612277b0877.txt', 'example/0xa858463f30a08c6f3410ed456e59277fbe62ff14225754d2bb0b4f6a75fdc8ad.txt', 'example/0x0016745693d68d734faa408b94cdf2d6c95f511b50f47b03909dc599c1dd9ff6.txt', 'example/0xcd314668aaa9bbfebaf1a0bd2b6553d01dd58899c508d4729fa7311dc5d33ad7.txt', 'example/0x51cbfd46f21afb44da4fa971f220bd28a14530e1d5da5009cfbdfee012e57e35.txt', 'example/0xc28fad5e8d5e0ce6a2eaf67b6687be5d58113e16be590824d6cfa1a94467d0b7.txt', 'example/0x597d11c05563611cb4ad4ed4c57ca53bbe3b7d3fefc37d1ef0724ad58904742b.txt']
+start analyzing tx:  0x6eabef1bf310a1361041d97897c192581cd9870f6a39040cd24d7de2335b4546
+start analyzing tx:  0xe72d4e7ba9b5af0cf2a8cfb1e30fd9f388df0ab3da79790be842bfbed11087b0
+invalid literal for int() with base 10: '0x75aa95508f019997aeee7b721180c80085abe0f9'
+start analyzing tx:  0xe0b0c2672b760bef4e2851e91c69c8c0ad135c6987bbf1f43f5846d89e691428
+start analyzing tx:  0x44aad3b853866468161735496a5d9cc961ce5aa872924c5d78673076b1cd95aa
+start analyzing tx:  0x37085f336b5d3e588e37674544678f8cb0fc092a6de5d83bd647e20e5232897b
+start analyzing tx:  0x59faab5a1911618064f1ffa1e4649d85c99cfd9f0d64dcebbc1af7d7630da98b
+start analyzing tx:  0x33479bcfbc792aa0f8103ab0d7a3784788b5b0e1467c81ffbed1b7682660b4fa
+start analyzing tx:  0xad7a2c70c958fcd3effbf374d0acf3774a9257577625ae4c838e24b0de17602a
+start analyzing tx:  0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc
+start analyzing tx:  0x0fc6d2ca064fc841bc9b1c1fad1fbb97bcea5c9a1b2b66ef837f1227e06519a6
+start analyzing tx:  0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090
+start analyzing tx:  0x27981c7289c372e601c9475e5b5466310be18ed10b59d1ac840145f6e7804c97
+start analyzing tx:  0x395675b56370a9f5fe8b32badfa80043f5291443bd6c8273900476880fb5221e
+start analyzing tx:  0x0fe2542079644e107cbf13690eb9c2c65963ccb79089ff96bfaf8dced2331c92
+start analyzing tx:  0xab486012f21be741c9e674ffda227e30518e8a1e37a5f1d58d0b0d41f6e76530
+Exceeds the limit (4300) for integer string conversion: value has 16482 digits; use sys.set_int_max_str_digits() to increase the limit
+start analyzing tx:  0x762881b07feb63c436dee38edd4ff1f7a74c33091e534af56c9f7d49b5ecac15
+start analyzing tx:  0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a
+start analyzing tx:  0x61497a1a8a8659a06358e130ea590e1eed8956edbd99dbb2048cfb46850a8f17
+start analyzing tx:  0x3503253131644dd9f52802d071de74e456570374d586ddd640159cf6fb9b8ad8
+Exceeds the limit (4300) for integer string conversion: value has 14746 digits; use sys.set_int_max_str_digits() to increase the limit
+start analyzing tx:  0x4764dc6ff19a64fc1b0e57e735661f64d97bc1c44e026317be8765358d0a7392
+start analyzing tx:  0x600373f67521324c8068cfd025f121a0843d57ec813411661b07edc5ff781842
+start analyzing tx:  0x35f8d2f572fceaac9288e5d462117850ef2694786992a8c3f6d02612277b0877
+start analyzing tx:  0xa858463f30a08c6f3410ed456e59277fbe62ff14225754d2bb0b4f6a75fdc8ad
+Exceeds the limit (4300) for integer string conversion: value has 9799 digits; use sys.set_int_max_str_digits() to increase the limit
+start analyzing tx:  0x0016745693d68d734faa408b94cdf2d6c95f511b50f47b03909dc599c1dd9ff6
+start analyzing tx:  0xcd314668aaa9bbfebaf1a0bd2b6553d01dd58899c508d4729fa7311dc5d33ad7
+Exceeds the limit (4300) for integer string conversion: value has 31553 digits; use sys.set_int_max_str_digits() to increase the limit
+start analyzing tx:  0x51cbfd46f21afb44da4fa971f220bd28a14530e1d5da5009cfbdfee012e57e35
+start analyzing tx:  0xc28fad5e8d5e0ce6a2eaf67b6687be5d58113e16be590824d6cfa1a94467d0b7
+start analyzing tx:  0x597d11c05563611cb4ad4ed4c57ca53bbe3b7d3fefc37d1ef0724ad58904742b
+The following vulnerabilities are found:
+['1Reentrancy', '2UncheckedCall', '3FailedSend', '4TimestampDependence', '5UnsecuredBalance', '6MisuseOfOrigin', '7Suicidal', '8Securify-Reentrancy-GasDepReen', '8Securify-Reentrancy-GasConstantReen']
+0x6eabef1bf310a1361041d97897c192581cd9870f6a39040cd24d7de2335b4546
+[False, False, False, False, False, False, False, False, False]
+0xe0b0c2672b760bef4e2851e91c69c8c0ad135c6987bbf1f43f5846d89e691428
+[True, False, False, False, False, False, False, False, False]
+0x44aad3b853866468161735496a5d9cc961ce5aa872924c5d78673076b1cd95aa
+[True, False, False, False, False, False, False, False, False]
+0x37085f336b5d3e588e37674544678f8cb0fc092a6de5d83bd647e20e5232897b
+[True, True, False, False, False, False, False, False, False]
+0x59faab5a1911618064f1ffa1e4649d85c99cfd9f0d64dcebbc1af7d7630da98b
+[False, False, False, False, False, False, False, False, False]
+0x33479bcfbc792aa0f8103ab0d7a3784788b5b0e1467c81ffbed1b7682660b4fa
+[False, False, False, False, False, True, False, False, False]
+0xad7a2c70c958fcd3effbf374d0acf3774a9257577625ae4c838e24b0de17602a
+[False, False, False, False, False, False, False, False, False]
+0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc
+[False, False, False, False, False, False, False, False, False]
+0x0fc6d2ca064fc841bc9b1c1fad1fbb97bcea5c9a1b2b66ef837f1227e06519a6
+[False, False, False, False, False, False, False, False, False]
+0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090
+[False, False, False, False, False, False, False, False, False]
+0x27981c7289c372e601c9475e5b5466310be18ed10b59d1ac840145f6e7804c97
+[False, False, False, False, False, False, False, False, False]
+0x395675b56370a9f5fe8b32badfa80043f5291443bd6c8273900476880fb5221e
+[False, False, False, False, False, False, False, False, False]
+0x0fe2542079644e107cbf13690eb9c2c65963ccb79089ff96bfaf8dced2331c92
+[False, True, False, False, False, False, False, False, False]
+0x762881b07feb63c436dee38edd4ff1f7a74c33091e534af56c9f7d49b5ecac15
+[False, False, False, False, False, False, False, False, False]
+0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a
+[False, False, False, False, False, False, False, False, False]
+0x61497a1a8a8659a06358e130ea590e1eed8956edbd99dbb2048cfb46850a8f17
+[False, False, False, False, False, False, False, False, False]
+0x4764dc6ff19a64fc1b0e57e735661f64d97bc1c44e026317be8765358d0a7392
+[False, False, False, True, False, False, False, False, False]
+0x600373f67521324c8068cfd025f121a0843d57ec813411661b07edc5ff781842
+[False, False, False, False, False, False, False, False, False]
+0x35f8d2f572fceaac9288e5d462117850ef2694786992a8c3f6d02612277b0877
+[True, False, False, False, False, False, False, False, False]
+0x0016745693d68d734faa408b94cdf2d6c95f511b50f47b03909dc599c1dd9ff6
+[False, False, False, False, False, False, False, False, False]
+0x51cbfd46f21afb44da4fa971f220bd28a14530e1d5da5009cfbdfee012e57e35
+[False, False, False, False, False, False, False, False, False]
+0xc28fad5e8d5e0ce6a2eaf67b6687be5d58113e16be590824d6cfa1a94467d0b7
+[False, False, False, False, False, False, False, False, False]
+0x597d11c05563611cb4ad4ed4c57ca53bbe3b7d3fefc37d1ef0724ad58904742b
+[False, False, False, False, False, False, False, False, False]
+
+
+
+
+
+example/0x0fc6d2ca064fc841bc9b1c1fad1fbb97bcea5c9a1b2b66ef837f1227e06519a6.txt example/0x0fe2542079644e107cbf13690eb9c2c65963ccb79089ff96bfaf8dced2331c92.txt example/0x6eabef1bf310a1361041d97897c192581cd9870f6a39040cd24d7de2335b4546.txt example/0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090.txt example/0x35f8d2f572fceaac9288e5d462117850ef2694786992a8c3f6d02612277b0877.txt example/0x44aad3b853866468161735496a5d9cc961ce5aa872924c5d78673076b1cd95aa.txt example/0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a.txt example/0x51cbfd46f21afb44da4fa971f220bd28a14530e1d5da5009cfbdfee012e57e35.txt example/0x59faab5a1911618064f1ffa1e4649d85c99cfd9f0d64dcebbc1af7d7630da98b.txt example/0x597d11c05563611cb4ad4ed4c57ca53bbe3b7d3fefc37d1ef0724ad58904742b.txt example/0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc.txt example/0x4764dc6ff19a64fc1b0e57e735661f64d97bc1c44e026317be8765358d0a7392.txt example/0x27981c7289c372e601c9475e5b5466310be18ed10b59d1ac840145f6e7804c97.txt example/0x33479bcfbc792aa0f8103ab0d7a3784788b5b0e1467c81ffbed1b7682660b4fa.txt example/0x37085f336b5d3e588e37674544678f8cb0fc092a6de5d83bd647e20e5232897b.txt example/0x61497a1a8a8659a06358e130ea590e1eed8956edbd99dbb2048cfb46850a8f17.txt example/0x395675b56370a9f5fe8b32badfa80043f5291443bd6c8273900476880fb5221e.txt example/0x600373f67521324c8068cfd025f121a0843d57ec813411661b07edc5ff781842.txt example/0x762881b07feb63c436dee38edd4ff1f7a74c33091e534af56c9f7d49b5ecac15.txt example/0x0016745693d68d734faa408b94cdf2d6c95f511b50f47b03909dc599c1dd9ff6.txt example/0x3503253131644dd9f52802d071de74e456570374d586ddd640159cf6fb9b8ad8.txt example/0xa858463f30a08c6f3410ed456e59277fbe62ff14225754d2bb0b4f6a75fdc8ad.txt example/0xab486012f21be741c9e674ffda227e30518e8a1e37a5f1d58d0b0d41f6e76530.txt example/0xad7a2c70c958fcd3effbf374d0acf3774a9257577625ae4c838e24b0de17602a.txt example/0xc28fad5e8d5e0ce6a2eaf67b6687be5d58113e16be590824d6cfa1a94467d0b7.txt example/0xcd314668aaa9bbfebaf1a0bd2b6553d01dd58899c508d4729fa7311dc5d33ad7.txt example/0xe0b0c2672b760bef4e2851e91c69c8c0ad135c6987bbf1f43f5846d89e691428.txt example/0xe72d4e7ba9b5af0cf2a8cfb1e30fd9f388df0ab3da79790be842bfbed11087b0.txt

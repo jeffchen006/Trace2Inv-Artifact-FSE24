@@ -1,0 +1,31 @@
+### Installation:
+This artifact requires users install docker first. 
+
+To install Docker please see one of the following resources
+1. [Install Docker for Ubuntu.](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
+2. [Install Docker for Mac.](https://docs.docker.com/docker-for-mac/install/)
+3. [Install Docker for Windows.](https://docs.docker.com/docker-for-windows/install/)
+
+
+After installing Docker, please run the following command to pull the docker image from Docker Hub:
+```
+sudo docker pull XXX
+```
+
+
+### A simple test:
+To verify that the Docker image is working correctly, run the following command:
+```
+./python3.10 main.py AC
+```
+
+If the above command executes successfully, the Docker image is functioning correctly. The output should display the following message:
+```
+RariCapital2_1 has one function call with several transfers
+Yearn1 has one function call with several transfers
+Eminence has one function call with several transfers
+Opyn has one function call with several transfers
+...
+5 sampled FPs for isOriginManager
+len(txList3):  306
+```

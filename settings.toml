@@ -1,0 +1,23 @@
+[version]
+current = "v0.0.0-alpha"
+
+[settings]
+# Trace2Inv requires EtherScan API key to fetch the contract source code
+# Users can get the API key from https://etherscan.io/myapikey
+EtherScanApiKeys = [ "8SD5GA6IKF28CJQ6PF7IJPUMA2RTYSM158", "T36ZIMU3MF25YFFWD723FTQB9QWWBV1R57", "GMUISR1UKTHXUQZ1VVHBAPXHA3V6HPSSSM", "V63CW1KDZUB5CAP1IBDWX79J2T5FWA3JDQ", "I7R59ER7AQ8HEBYTNR15ETXJSMTD86BHA4", "3PCW417G8C6U4CZDEWA54Q97DNMDZ4ER7A", "MTCCCJ1BW2I8EA5EJN714N6ZH67DY74HHF", "W9C78R6J4B7ABDWK5149P73CP2JSMX8QTW", "H8CKJDHKBPU6AUD7UJGVA4E31J6RTHUJES",]
+
+# Trace2Inv requires Ethereum Archive nodes to fetch transaction trace via ``debug_traceTransaction``
+# We need endpoints that support this RPC method, usually it is a paid service, we chose QuickNode for this purpose.
+rpcProviders = [ ]
+
+# We also need some other Ethereum Archive nodes to fetch other blockchain states, usually it is free, we chose Alchemy for this purpose.
+ethArchives = [ "https://eth-mainnet.g.alchemy.com/v2/weftbAqPky4MPT-_G1v9NNofoctXc_Mi", "https://eth-mainnet.g.alchemy.com/v2/86e0Q4aGWRLRihZ56NB3Z5mcXpVx9Y94", "https://eth-mainnet.g.alchemy.com/v2/aB-cCzeL6rN6XR_n0qupMJ9qqCfJ2sCz", "https://eth-mainnet.g.alchemy.com/v2/JqC73WlBFLd6UX-7lGP3B3mNcoi0mvhq", "https://eth-mainnet.g.alchemy.com/v2/F_L3iReDhsY5H09pmaixMwQEo505n9Nh", "https://eth-mainnet.g.alchemy.com/v2/YCP7UuLZXCoGuDr9cXWtNpD_VHATf5QF", "https://eth-mainnet.g.alchemy.com/v2/x44Zy65ZCU-4dzsslhp_3Fz6kz49k_yG", "https://eth-mainnet.g.alchemy.com/v2/yKflgYl9tHO-Ulkrs8e7k4NpnHXrGuyx", "https://eth-mainnet.g.alchemy.com/v2/5R25eNGFTqkx1aRtSTMvJzkOf1wKDNYS", "https://eth-mainnet.g.alchemy.com/v2/cRvZCqj5XSx2LUHzmVtGOr7AEnq6kKPY",]
+
+[runtime]
+# It decides how deep the logging will be
+LoggingUpperBound = 6
+
+[experiment]
+# It decides the ratio of the training set
+# 0.7 means 70% of the transaction history will be used for training and the rest will be used for testing
+trainingSetRatio = 0.7

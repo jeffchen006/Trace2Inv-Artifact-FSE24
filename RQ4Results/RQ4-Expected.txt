@@ -1,0 +1,55 @@
+HarmonyBridge
+totalGas: 608999379
+totalGas_EOA: 609214176
+totalGas_OB: 612212754
+totalGas_GC: 609134184
+totalGas_DF: 609080629
+totalGas_OBorDFU: 612698632
+average overhead EOA: 0.035270479315217824
+average overhead OB: 0.5276483212965641
+average overhead GC: 0.022135490551953418
+average overhead DF: 0.01334155711840225
+average overhead Combined for EOA and GC and DFU: 0.07074752698557349
+average overhead Combined for EOA and (OB or DFU): 0.6427018047911671
+
+Harvest1_fUSDT
+totalGas: 212589465
+totalGas_EOA: 212594217
+totalGas_OB: 215689033
+totalGas_GC: 212612425
+totalGas_DF: 212603063
+totalGas_OBorDFU: 215712669
+average overhead EOA: 0.0022352942089580966
+average overhead OB: 1.4580063974477757
+average overhead GC: 0.010800158888400233
+average overhead DF: 0.006396365878243307
+average overhead Combined for EOA and GC and DFU: 0.019431818975601638
+average overhead Combined for EOA and (OB or DFU): 1.4713598343172838
+
+CreamFi2_1
+totalGas: 190756470
+totalGas_EOA: 190758648
+totalGas_OB: 195612100
+totalGas_GC: 190766575
+totalGas_DF: 190760240
+totalGas_OBorDFU: 195622464
+average overhead EOA: 0.0011417699226663192
+average overhead OB: 2.5454601880607246
+average overhead GC: 0.005297330150846259
+average overhead DF: 0.0019763418771588715
+average overhead Combined for EOA and GC and DFU: 0.00841544195067145
+average overhead Combined for EOA and (OB or DFU): 2.5520350633454267
+
+BeanstalkFarms
+totalGas: 470127657
+totalGas_EOA: 470127657
+totalGas_OB: 472604853
+totalGas_GC: 0
+totalGas_DF: 470139305
+totalGas_OBorDFU: 472620575
+average overhead EOA: 0.0
+average overhead OB: 0.5269198616834405
+average overhead GC: None (Vyper does not support )
+average overhead DF: 0.002477624923053612
+average overhead Combined for EOA and GC and DFU: 0.002477624923053612
+average overhead Combined for EOA and (OB or DFU): 0.5302640597466488

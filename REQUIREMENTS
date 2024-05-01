@@ -1,0 +1,15 @@
+
+# Setup (for executable artifacts): 
+
+## Disk Usage:
+The docker image takes approximately 6 GB. 
+
+## Hardware: 
+The executable should be able to run on common Ubuntu laptops or desktops. 
+
+
+## Software: 
+To use this artifact, the following dependencies are required:
+- A working installation of [Docker](https://docs.docker.com/get-docker/)
+- Bash
+- Ubuntu 

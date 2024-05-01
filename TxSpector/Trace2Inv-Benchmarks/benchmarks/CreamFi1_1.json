@@ -1,0 +1,16 @@
+{
+    "category": "DeFiHackLabs",
+    "benchmarkName": "CreamFi1_1",
+    "exploitTx": "0x0016745693d68d734faa408b94cdf2d6c95f511b50f47b03909dc599c1dd9ff6",
+    "interface": "0x2db6c82ce72c8d7d770ba1b5f5ed0b6e075066d6",
+    "implementation": "0x3c710b981f5ef28da1807ce7ed3f2a28580e0754",
+    "traningSet": [
+        "0x266f3ed46c26c97ec85231d584978419f1d12bed08251045fa90b5d4ef02312f",
+        "0x780992f25eb7525feebf4ef43696b2918026a9d941bc76efca3a7c0fd1f0ef58",
+        "0x1059643922137f17da46a93b0d39d37f328223c1f20a9deba8d7d7df0716216b",
+        "0x1a4f4017c04f0a5ac38b1e594d7d03fbfaaddc17773691690ec03cf5e2875eb7"
+    ],
+    "testingSet": [
+        "0x0016745693d68d734faa408b94cdf2d6c95f511b50f47b03909dc599c1dd9ff6"
+    ]
+}

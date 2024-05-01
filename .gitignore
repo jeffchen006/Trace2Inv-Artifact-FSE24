@@ -1,0 +1,30 @@
+*/__pycache__/*
+crawlPackage/__pycache__/*
+fetchPackage/__pycache__/*
+*.pyc
+# crytic-export/*
+Benchmarks_Traces/*/*
+*.gz
+*.json.gz
+*.json
+*.pickle
+*.pickle.gz
+
+data/
+!cache/
+!result_map.json
+!new_result_map.json
+!TxSpector/Trace2Inv-Benchmarks/benchmarks/*.json
+!failedTimeOut.json
+
+
+
+# staticAnalyzer/slither
+# staticAnalyzer/cache/
+# crawlPackage/cache/
+# crawlPackage/cacheFlashSyn/
+# FlashSyn2/*
+
+*.pyc
+.vscode/
+

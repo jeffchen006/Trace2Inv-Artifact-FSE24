@@ -1,0 +1,1009 @@
+RoninNetwork
+0xc28fad5e8d5e0ce6a2eaf67b6687be5d58113e16be590824d6cfa1a94467d0b7
+protected by: 
+	require(gasStart <= constant)
+	4
+	dataFlow upper bound
+	5
+	tokenOutUpperBound
+	5
+	tokenOutRatioUpperBound
+	4
+
+
+HarmonyBridge
+0x27981c7289c372e601c9475e5b5466310be18ed10b59d1ac840145f6e7804c97
+protected by: 
+	dataFlow upper bound
+	5
+	tokenOutUpperBound
+	5
+	tokenOutRatioUpperBound
+	4
+
+
+Nomad
+0x61497a1a8a8659a06358e130ea590e1eed8956edbd99dbb2048cfb46850a8f17
+protected by: 
+	tokenOutRatioUpperBound
+	4
+
+
+PolyNetwork
+0xad7a2c70c958fcd3effbf374d0acf3774a9257577625ae4c838e24b0de17602a
+protected by: 
+
+
+bZx2
+0x762881b07feb63c436dee38edd4ff1f7a74c33091e534af56c9f7d49b5ecac15
+protected by: 
+	require(origin==sender)
+	2
+	dataFlow upper bound
+	2 (too much gas)
+	dataFlow lower bound
+	1
+	tokenInUpperBound
+	2 (too much gas)
+
+
+Warp
+0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090
+protected by: 
+	isOriginManager
+	1
+	enforced short same function gap
+	5
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	totalBorrow
+	4
+	dataFlow upper bound
+	2
+	tokenOutUpperBound
+	2 -----3000
+	tokenOutRatioUpperBound
+	2 ------300
+	require(origin==sender)
+	2
+	oracle range
+	1
+	oracle deviation
+	1
+
+
+CheeseBank
+0x600a869aa3a259158310a233b815ff67ca41eab8961a49918c2031297a02f1cc
+protected by: 
+	require(origin==sender)
+	2
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	oracle range
+	1
+	oracle deviation
+	1
+	totalBorrow
+	1
+	dataFlow upper bound
+	5
+	tokenOutUpperBound
+	2 ------20
+	tokenOutRatioUpperBound
+	2 -------50
+
+
+InverseFi
+0x600373f67521324c8068cfd025f121a0843d57ec813411661b07edc5ff781842
+protected by: 
+	totalBorrow
+	1
+	dataFlow upper bound
+	5
+	tokenOutUpperBound
+	5  ----4
+	tokenOutRatioUpperBound
+	4
+
+
+CreamFi1
+0x0016745693d68d734faa408b94cdf2d6c95f511b50f47b03909dc599c1dd9ff6
+protected by: 
+	require(origin==sender)
+	1
+
+
+CreamFi2
+0x0fe2542079644e107cbf13690eb9c2c65963ccb79089ff96bfaf8dced2331c92
+protected by: 
+	require(origin==sender)
+	2
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	totalBorrow
+	1
+	dataFlow upper bound
+	2
+	tokenOutUpperBound
+	2
+	tokenOutRatioUpperBound
+	2
+	isOriginManager
+	1
+	enforced short same function gap
+	5
+
+
+RariCapital1
+0x4764dc6ff19a64fc1b0e57e735661f64d97bc1c44e026317be8765358d0a7392
+protected by: 
+	same sender block
+	5
+	same origin block
+	3
+	enforced short same function gap
+	5
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	callvalue
+	3
+	dataFlow upper bound
+	2
+	tokenInUpperBound
+	3
+	tokenOutUpperBound
+	2
+
+RariCapital2
+0xab486012f21be741c9e674ffda227e30518e8a1e37a5f1d58d0b0d41f6e76530
+protected by: 
+	require(origin==sender)
+	1
+	same sender block
+	5
+	same origin block
+	1
+	enforced short same function gap
+	2
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	totalSupply
+	4
+	totalBorrow
+	4
+	callvalue
+	2 lots of rounds
+	dataFlow upper bound
+	2 lots of rounds
+	tokenInUpperBound
+	2 lots of rounds
+	tokenOutUpperBound
+	2 lots of rounds
+	tokenOutRatioUpperBound
+	4
+	isSenderManager
+	1
+	tokenInRatioUpperBound
+	4
+
+
+
+XCarnival
+0x51cbfd46f21afb44da4fa971f220bd28a14530e1d5da5009cfbdfee012e57e35
+protected by: 
+	isSenderOwner
+	1
+	enforced short same function gap
+	1
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	totalBorrow
+	4
+	tokenOutRatioUpperBound
+	4
+
+
+Harvest1_fUSDT
+0x0fc6d2ca064fc841bc9b1c1fad1fbb97bcea5c9a1b2b66ef837f1227e06519a6
+protected by: 
+	require(origin==sender)
+	2
+	isSenderManager
+	1
+	isOriginManager
+	1
+	same sender block
+	5
+	same origin block
+	2
+	enforced short same function gap
+	2
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	oracle range
+	4
+	oracle deviation
+	4
+	totalSupply
+	4
+	dataFlow upper bound
+	2
+	tokenOutUpperBound
+	2
+	tokenOutRatioUpperBound
+	2
+
+
+Harvest2_fUSDC
+0x35f8d2f572fceaac9288e5d462117850ef2694786992a8c3f6d02612277b0877
+protected by: 
+	require(origin==sender)
+	2
+	isSenderManager
+	1
+	isOriginManager
+	1
+	same sender block
+	5
+	same origin block
+	2
+	enforced short same function gap
+	2
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	oracle range
+	4
+	oracle deviation
+	4
+	totalSupply
+	4
+	dataFlow upper bound
+	2
+	tokenOutUpperBound
+	2
+	tokenOutRatioUpperBound
+	2
+
+
+ValueDeFi
+0x46a03488247425f845e444b9c10b52ba3c14927c687d38287c0faddc7471150a
+protected by: 
+	isSenderOwner
+	1
+	same origin block
+	2
+	enforced short same function gap
+	5
+	oracle range
+	1
+	totalSupply
+	1
+	dataFlow upper bound
+	2
+	tokenInUpperBound
+	2
+	tokenOutUpperBound
+	2
+
+
+Yearn1
+0x59faab5a1911618064f1ffa1e4649d85c99cfd9f0d64dcebbc1af7d7630da98b
+protected by: 
+	isOriginManager
+	1
+	same sender block
+	5
+	same origin block
+	2
+	enforced short same function gap
+	2
+	require(gasStart <= constant)
+	5
+	require(origin==sender)
+	2
+	dataFlow upper bound
+	5
+	tokenInUpperBound
+	2
+	tokenOutUpperBound
+	5
+	tokenInRatioUpperBound
+	5
+	
+
+
+VisorFi
+0x69272d8c84d67d1da2f6425b339192fa472898dce936f24818fda415c1c1ff3f
+protected by: 
+	require(origin==sender)
+	1
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	MoveNonReentrantLocks
+	1
+	dataFlow upper bound
+	2
+	tokenOutUpperBound
+	2
+	tokenOutRatioUpperBound
+	4
+
+
+UmbrellaNetwork
+0x33479bcfbc792aa0f8103ab0d7a3784788b5b0e1467c81ffbed1b7682660b4fa
+protected by: 
+
+
+PickleFi
+0xe72d4e7ba9b5af0cf2a8cfb1e30fd9f388df0ab3da79790be842bfbed11087b0
+protected by: 
+	require(origin==sender)
+	2
+	enforced short same function gap
+	5
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	dataFlow upper bound
+	5
+	tokenOutUpperBound
+	5
+
+
+Eminence
+0x3503253131644dd9f52802d071de74e456570374d586ddd640159cf6fb9b8ad8
+protected by: 
+	same sender block
+	1
+	same origin block
+	2
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	totalSupply
+	4
+	dataFlow upper bound
+	2
+	tokenInUpperBound
+	2
+	tokenOutUpperBound
+	2
+	tokenInRatioUpperBound
+	4
+	tokenOutRatioUpperBound
+	4
+
+
+Opyn
+0xa858463f30a08c6f3410ed456e59277fbe62ff14225754d2bb0b4f6a75fdc8ad
+protected by: 
+	require(origin==sender)
+	1
+	isSenderManager
+	1
+	isOriginManager
+	1
+	same sender block
+	5
+	same origin block
+	1
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+
+
+IndexFi
+0x44aad3b853866468161735496a5d9cc961ce5aa872924c5d78673076b1cd95aa
+protected by: 
+	isOriginOwner
+	1
+	same sender block
+	5
+	same origin block
+	2
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	totalSupply
+	4
+	mapping
+	1
+	dataFlow upper bound
+	2
+	tokenInUpperBound
+	2
+	tokenOutUpperBound
+	2
+	tokenInRatioUpperBound
+	2
+	tokenOutRatioUpperBound
+	2
+
+
+RevestFi
+0xe0b0c2672b760bef4e2851e91c69c8c0ad135c6987bbf1f43f5846d89e691428
+protected by: 
+	isOriginManager
+	1
+	same sender block
+	1
+	same origin block
+	1
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	require(origin==sender)
+	1
+	isSenderManager
+	1
+	MoveNonReentrantLocks
+	1
+
+
+
+DODO
+0x395675b56370a9f5fe8b32badfa80043f5291443bd6c8273900476880fb5221e
+protected by: 
+	isSenderOwner
+	1
+	isOriginOwner
+	1
+
+Punk1
+0x597d11c05563611cb4ad4ed4c57ca53bbe3b7d3fefc37d1ef0724ad58904742b
+protected by: 
+	require(origin==sender)
+	2
+	isSenderOwner
+	1
+	isOriginOwner
+	1
+	require(gasStart <= constant)
+	5
+
+
+
+BeanstalkFarms
+0xcd314668aaa9bbfebaf1a0bd2b6553d01dd58899c508d4729fa7311dc5d33ad7
+protected by: 
+	isSenderManager
+	1
+	same origin block
+	1
+	require(gasStart <= constant)
+	5
+	require(gasStart - gasEnd <= constant)
+	1
+	totalSupply
+	1
+	dataFlow upper bound
+	2
+	tokenInUpperBound
+	2
+	tokenOutUpperBound
+	2
+	tokenInRatioUpperBound
+	2
+	tokenOutRatioUpperBound
+	2
+	require(origin==sender)
+	1
+	isOriginManager
+	1
+
+
+
+============================================================================
+For require(gasStart <= constant)
+FPs: 
+	XCarnival	0xa328a9377157276b7c88281f83970c6f1ff417c77e7e7c7e4d2c9236af1b6935
+	3
+	Warp_interface	0x6e736e4fdc06fa35889b2892a246c0a9d3e95953df6d6058054f4c881406102f
+	3
+	BeanstalkFarms	0x5a22e7d5581df1bb33856a8372f3d4900d7953e321110775f6bbb2b01e927fe5
+	3
+	CreamFi2_2	0x567a51a57e3dfa96b11ae9c91afb41e3b7dbc7b61c8470e007fee07b74a9e4bf
+	3
+	BeanstalkFarms	0x022c34d44184ffe145b6b802b43552bd240c6a6952a86fa1032592e32285a3a8
+	3
+	HarmonyBridge	0x1c75af295db1444b557e049767b8a729060ddb8c18c8ccd77d8ff0aa27ac6480
+	3
+	RevestFi_interface	0x1ec775935d5abdd2e708cc69b25b8eeeaa76234adda8429a98e586e7436d9898
+	3
+	Yearn1_interface	0xc7433481e21cc58827973122e29b823761cd4c28e1d34b0335448205f0611ffc
+	3
+	Yearn1	0x9831f1aac10125cf3b4be769459969ba2aa7294c9dee7defaceef8cf88a5fea1
+	3
+	PolyNetwork	0xe49eac0fb567ab4a5f01d9d2e616e7050d8a7649ef603a0abdaab9e110d443ba
+	3
+
+
+For dataFlowUpperBound
+FPs: 
+	CheeseBank_1	0x66e2341145802b07ed84dff2bec7da3d4298973902228d8470e33689083a5c2b
+	2
+	Harvest1_fUSDT	0x6f4dfdd6025f1a9970bb9ff465534714abb4adfca32b20e256a82d93dd7ab35e
+	1
+	Warp	0x1356670c53b451a54260ecc8aa69d0c7af10fdb982be64281da79ebdecf32024
+	2
+	ValueDeFi	0xffa45c44097fb860301789e0177e388de295614a6b1c7051da10e16d42abe60f
+	1
+	CreamFi2_1	0x9c544c6b371ec1e9e6e510d3037bc23667a0bb94345028ba0543aaa0ac1ef261
+	2 Contract
+	RoninNetwork	0x3939b69fa3a1bcc2ee0b7a9819adffd1891a00166cc8a6c5040dc0554f607721
+	2
+	Harvest1_fUSDT	0xd6238b5e355a5582798907f419baf7aba0879b737dc8b666489137919bba608e
+	1
+	CheeseBank_3	0xe8d9eee34882c0f2e6f356eda0933c40fbf0cc392bd0b59db5fd7b65b8aaf326
+	2
+	Eminence	0x51afedf92494a1fac2b99052c3e6c41f9ec3ddf0972ca4fb8c3159627e4ca227
+	2
+	Yearn1_interface	0xe9dd35f872a49f4080405e0ab1f6ad0469215b7e5001b7c5987f00117a47d32a
+	1 Contract
+
+
+For tokenOutUpperBound
+FPs: 
+	HarmonyBridge	0x723cec6c526ab624c1b359fded9d5b1f172fa1b8b411917be83522e9eefe5e4a
+	2
+	RariCapital2_1	0x6b62050b2a01983e46df118f5ebe747d896105fd0f9743fbcdaa217d838758cc
+	2
+	Eminence	0x03dc8e714fb70c703f5446a223ae068f6e774f2196a2c47e456800f35cc3ad41
+	2
+	CreamFi2_4	0x24eaac4b11c874f75fd3f173e5918e89cab2cf7da19dcb3e0992432361b98cef
+	2
+	RoninNetwork	0x3939b69fa3a1bcc2ee0b7a9819adffd1891a00166cc8a6c5040dc0554f607721
+	2
+	VisorFi	0x83c6b4574ba50cc28fed06484f5dc3dde428326f7846f78d662170728f5fd78f
+	2
+	Warp	0x1356670c53b451a54260ecc8aa69d0c7af10fdb982be64281da79ebdecf32024
+	2
+	PickleFi	0x9bab7f1ca68351281f1198fe68eaf0208f7fb07c65fc698feed6684dc73cccfb
+	2
+	VisorFi	0xa1e73d2582edbcc39a946c3176a6291502f476810697434a7b8ea107e9ba7108
+	2
+	Eminence	0x63a81aa10acd4e8e34556be83592004a91bc3622aecd1e8c1e9166111684bd08
+	2
+
+
+For tokenOutRatioUpperBound
+FPs: 
+	RoninNetwork	0x3939b69fa3a1bcc2ee0b7a9819adffd1891a00166cc8a6c5040dc0554f607721
+	2
+	RariCapital2_2	0x304019f289f4635249a1317fc1f89fe9ac0ecfbae195349dd0e3a8331067f076
+	2
+	CheeseBank_1	0x2ae67ed28a3ffc98f2b41123c145752441d25c5571f41d5f91515cc11ecff3d1
+	2
+	CreamFi2_1	0x9758f677e321b7e38eecd574f12bab60422985c813020abb90675a8027d610e0
+	2
+	RoninNetwork	0xa05c9fd6dc495ecbcbfd7fd419e78c05315021747f69487e2e8bf4e2ed7aa652
+	2
+	RoninNetwork	0xab6318a7242d077ac58e4d79813c4504897a0f2824bea0cc494a2f237076f881
+	2
+	CreamFi2_2	0xa20edf58c0739b00fbf53a5eec9cf87c090fe5f29250dc9913730b9a8e8717d0
+	1 - rebalance
+	HarmonyBridge	0x4a515631f83167accaf48ee1b26addab9fb529f3e4206e910b1d5a86ede7fa41
+	2
+	XCarnival	0xf061aa5bb765fb859d7017765da2adb74007daea9f239ac7c76b8e38d9558190
+	2
+	HarmonyBridge	0xeaa5426547ce51eead31949bc62a884a1301e0c0b9b1834c482de6def6f2d1a5
+	2
+
+
+For require(origin==sender)
+FPs: 
+	CreamFi2_3	0xdad15b885b44000360eeace73aa9573b94a5173311198778b1c9d43bce38ab1d
+	1 another defi
+	CreamFi1_2	0x18d0de868e79b66415d6c130cb59e0f3398a0c4bfa1f2dec046fbff17cfe0e4e
+	1 another defi
+	Yearn1_interface	0x34626e684ddebea1eb203022dfea2a7ee0dcf48d26f52eaf99ee26b5d1513a67
+	1 another defi
+	RevestFi_interface	0xe03b12b2383ef785445436331d957c361c526ee6a626bf92975aa2b625c2c391
+	1 another defi
+	RariCapital2_2	0x5af0f208193e9f101f2a0bcfd760477a5a7ec6e488f75622c386589f736bb7e3
+	1 MEV
+	HarmonyBridge	0xe3bae63d803795209cfccf470ee7c47263e20dd84eedc56c5aed75ce53131dee
+	1 individual
+	RevestFi_interface	0x01a4ee0f9408e4b56a9e5d8aef93f73a04544623be034bba1f1b62ff03797f06
+	1 defi
+	Yearn1_interface	0x9831f1aac10125cf3b4be769459969ba2aa7294c9dee7defaceef8cf88a5fea1
+	1 defi
+	RevestFi_interface	0xf7903bf60e9cb1310fc2a67890f96f9b411d627f5327a277357b517f746a5fa9
+	1 defi
+	CreamFi1_2	0x015a2c4a6394f630c4c9b7ccbdac7dced7dfdb030cae3d82f1d289be68d5c5c5
+	1 defi
+
+
+For dataFlowLowerBound
+FPs: 
+	CheeseBank_3	0x58fc0c22b819dbbfb6d5e0dec2a57ac57f54963ffa3b1839834871100aeca093
+	1
+	CreamFi2_2	0xf38a5888cd76c0cdf284be8895d329bb951bbab14a47b496202bdc34df451c36
+	1
+	InverseFi	0x0871f949e603e63c1737b209560ec9a34614bdacfd15998489ac745fc2b6801d
+	1
+	Harvest2_fUSDC	0x3a22ff57441b40ba51ca0e48308f42d3e66600662f13fe23cbe53ed17eea7288
+	1
+	PickleFi	0x1a31f2da6f501cdf3dfbdbd0353df552a54e1920cbe28a6fd589c91d10695e81
+	1
+	CheeseBank_1	0x20b8b6a78165083840e2620e7ac89d064e6b0adc21486d5bfd1ec673e7d1e0f1
+	1
+	UmbrellaNetwork	0x16fa2232daa3098f4ffd23ea1c4cc6bf78f19cb8f8f5c771d9ca3062367ce160
+	1
+	RariCapital2_2	0xe1d9c99411d3e22e4a6e1c1d880c28d0bd27f1bb51f8723bc9bb3193da6dd77c
+	1 MEV bot
+	CreamFi1_2	0x9149ad7b2f6c88d6b0af2b4abda4d29f33338d6e2fc6a06d09be59908dfe4459
+	1
+	UmbrellaNetwork	0x32926c36ee1902c593f2b3b5cfde1c717004ef020851e419e4fcc50a8e1ea280
+	1
+
+
+For tokenInUpperBound
+FPs: 
+	CreamFi2_1	0x7a81f43dccc46c6deb06f2ce6e7caf282dd38ae2ec4ffd217d08271ee65e9a46
+	2
+	HarmonyBridge	0xe8116061bf951890f82f9738543ba36fda419f5a832cf9dfd3aa0bee705df294
+	2
+	RariCapital2_2	0xddaa28fd99e939c04f1cee64cacbafce5b14eda8fe5002a0384a5cd01b43a1f9
+	2
+	XCarnival	0x94b88fb785eefe42ec8fc03035c495a1740f5f8fc3cc977300569e105859d4cc
+	2
+	CheeseBank_3	0xb679a701d0f414d218363695df5304e9944e82925450b436e53f9dfc9cf75d0a
+	2
+	CheeseBank_1	0x48b8470464b3a3be4ef892905b5d52c08fdb4a549055bab0fd34416062af245b
+	2
+	UmbrellaNetwork	0xcbdaec880ef7804ccc94670b14d7a90b814c80780074d5ad51eb3b69bc65b61e
+	2
+	Yearn1_interface	0x48a3465b93d8ffc4478c7dea26c8fcd6e1596911badf29cf4c6bdbb0728a3dfb
+	2
+	XCarnival	0x2e4d7f9940f2940be1f8bb61d35d8ca0225c73ef97332a6db5fcf5ddff156f18
+	2
+	CheeseBank_1	0x53d7d2391e995b63f2c4779f8f008fc2f475a30b19db1adc92faeabd2930b6a6
+	2
+
+
+For isOriginManager
+FPs: 
+	CreamFi2_1	0xc53408f89876ae6430cd1105aa264a09cde2ff08183ae6cf6f52ae23b49f516d
+	1
+	Yearn1	0x59faab5a1911618064f1ffa1e4649d85c99cfd9f0d64dcebbc1af7d7630da98b
+	1
+	RariCapital1	0x0cb4f5c7c6d0cfee1f3183c591dc96202ddcde4da6bcc317ada24b15e8699b6d
+	1
+	RevestFi_interface	0x504c2eb5adff2a25183b1372eeb68d47dacd4ff05eaa0dcf08305678bbdbce62
+	1
+	RariCapital1	0xb109d2ca8b6215b40050f81af3777f5d0805ebe85ba72269807206bd638ba8ae
+	1
+	RevestFi	0x84b3ec829e90af7195c064db6c6dabf5ca1e5e072f1e66b3f4316b95151bf5fa
+	1
+	BeanstalkFarms	0xbb0660c758dcada6407aec32b40b3d315feca21219462e571f662a98c0f85eba
+	1
+	CreamFi2_2	0xcd3aba60c03c5864367c7e027f3bb46b4b165cbf0481b55378d920b9c78f64ff
+	1
+	Warp	0xc869de9b05b82e370071b4203ef3366dc8a7cdbcb699795af622d5c9d6089072
+	1
+	Yearn1	0xebb0f4373c8add3ac012a2801279b48affc19252719dfc72efb900eda9121057
+	1
+
+
+For SameFuncGap
+FPs: 
+	RevestFi	0x84b3ec829e90af7195c064db6c6dabf5ca1e5e072f1e66b3f4316b95151bf5fa
+	3
+	Punk_1	0x812f2d4afdff2779ab8d62d47355e004853056927133b8858d2e6f3ddd758dcf
+	3
+	RariCapital2_4	0xc0a788bb03373c64e383afc65c0b635ca1e17de504a24b84a89e8cf6e5a1ce47
+	3
+	RevestFi_interface	0x3b96a6cc5c6966c159511d5b3ff13ddcda462d2756839a682b0402d777b11d56
+	3
+	PolyNetwork	0x28bd4a9bba7a12366d24aca378fc9fdd27e73e382275eaf18edaa7b13f127e54
+	3
+	CreamFi2_2	0x3b161c7b4253df04d6e0d70ffaa1d2734a30778ccaaaa874d625d5cac14cd4b5
+	3
+	bZx2	0xe9f5d5433ea3e1885a999369a61cc1ab52b5d1ddc84f95d61bf88818c64de21e
+	1 DeFi
+	CreamFi2_1	0x873538045a5b481b2b2a4b65c4905868e96915e44c0f13ccb308b3296354ab98
+	3
+	RariCapital2_1	0xaf1934f092842c4d23ac5c6a4d17d1eb923c8b60f2aa3082cb177863fd55b1af
+	3
+	CreamFi2_2	0xa233bd109a361b0868677dc507ae3f2b1b72699dc792eafd38e85ae204f01775
+	3
+
+
+For require(gasStart - gasEnd <= constant)
+FPs: 
+	BeanstalkFarms	0x5a22e7d5581df1bb33856a8372f3d4900d7953e321110775f6bbb2b01e927fe5
+	1
+	IndexFi	0x8f9e1b7f503099e1ce1e0847c176fb8549bd57984342c471c1a36751d6ebf072
+	1
+	RariCapital2_3	0xf7e7d20fd81dd574f6a0de884092baf34c104307d1b5413d1ddcf9b9f72e5274
+	1
+	CreamFi2_3	0xbf6deab08e4bc86e5a25746e0a3ec5abcf0846794df145ecc55477e320edf5b5
+	1
+	IndexFi	0xcc602b83899b738dcec50133241e6cd7797c48bc1ac56975c0e586fe7ffc5a78
+	1 DeFi
+	CheeseBank_1	0x303ae933fca38285e72e59b77111abb6b2b519895176ac96a98ea9779f4183e7
+	1
+	CreamFi2_1	0xbd4ffb73fc1eeb69922f13212b70ddd99ee7e86dde3cd6c158c50ddef8302b38
+	1
+	RevestFi_interface	0x0d970581af26e27ef6b09a80fe409f6af2fc9c501d6aaae5004acfe5cd0964ba
+	1
+	Warp_interface	0x6e736e4fdc06fa35889b2892a246c0a9d3e95953df6d6058054f4c881406102f
+	1
+	Eminence	0xf495de5be8b00dbe3630c69a2d042159f3d57e180c877509e830d25664489046
+	1
+
+
+For totalBorrow
+FPs: 
+	CreamFi2_1	0xd5e57f0789d4bb0bf85547212e801c899b49b891cbe436674615e305186e03fb
+	1
+	CheeseBank_1	0x5035cd6e615a5c0dfe5c4680858e86f359436f6a6d3ec7e61c2eb4fee0ce9b9c
+	1
+	RariCapital2_1	0xd1c61f4ecab7d483036297976f4d1c0ce055d1d61c0a479f8bf21d77a18ca2a4
+	1
+	Warp	0x54ed38d1660792c5614c49d2786c08dd6bf8fe61263ede6aae067dfa44bff92f
+	1
+	RariCapital2_2	0xe13388b85fad33431b11c5dce7a7a364e0b97ec953439e4ec43e3129901ef958
+	1
+	InverseFi	0xb25f96eb544b68d8bbc8bd8cfd91213a5f0ce4b516d1becc783dbbeb9b1d95f2
+	1
+	CheeseBank_2	0x256da72e1182e7c885b58d4eddc965edeed8bbee1e9d5eac9f51318a50b50635
+	1
+	CheeseBank_3	0x9c8c2a9dcb2afcf9ad47b9f7ddb655fe124c357f1e193dd97167546989707cc1
+	1
+	XCarnival	0x45d0d81bae51bb376efd758f9e8c5641387c6d40f7ac163a0f250ad15dbe4285
+	1
+	XCarnival	0xbb89d4650155c1aa19ef4e3fd7de0a1ba1784e3332bab685ba0f493011beb5d6
+	1
+
+
+For oracle
+FPs: 
+	Harvest2_fUSDC	0x8665be06fffd974d8a94d5409d8bcc61717a36651fccdf227a0bbf6a704a91ac
+	1
+	Harvest1_fUSDT	0x0b1de1a0d883e0ee224a0f7b62a8266f487e0c7fac5f99078a8dfd8a8f884a66
+	1
+	CheeseBank_2	0xe97ba6b87f380d57a205df4dc72527bbaeff6cbf326bdd34a8c92285a471ba5b
+	1
+	Harvest1_fUSDT	0xce3e66b3fbcfb6ab60146321eb5a22a2178647608fc94015828fcf3dab44e04f
+	1
+	CheeseBank_1	0x51f3b91a5ef592e245f227151b3dd3fcd2ae440f9677dac284c7f5173de57b11
+	1
+	ValueDeFi	0xa87fff3aeef29cc6d618dfb2354d37b03c6d3f9ddf04588b466a2fd9b8280233
+	1
+	CheeseBank_3	0xefd2a0017b1f00a6e5d777bf4c6a1d6c8a42528dcf6dbdb0f7b0388c3ca3f982
+	1
+	CheeseBank_2	0x7f0581c1a913d583883e5d64c17e531109e61553846631fd93683642d415e320
+	1
+	ValueDeFi	0x7084ca0d70137724adbf2e3dea5cd225f1170f199ac1107e288bfc81f7921bc5
+	1
+	Warp_interface	0x6e736e4fdc06fa35889b2892a246c0a9d3e95953df6d6058054f4c881406102f
+	1
+
+
+For oracle-ratio
+FPs: 
+	CheeseBank_2	0x7f0581c1a913d583883e5d64c17e531109e61553846631fd93683642d415e320
+	1
+	CheeseBank_1	0x2ae67ed28a3ffc98f2b41123c145752441d25c5571f41d5f91515cc11ecff3d1
+	1
+	CheeseBank_2	0xe0ddad3e6a529619c6c8575c420989c6b43f8331f2d45e4fa611b9fc413ba2ca
+	1
+	CheeseBank_2	0xf5d4e2f9f0131300ae4405f3ba6be66db8600c738cee676e89b935f36cb4c6da
+	1
+	CheeseBank_2	0x1f49cd1b9965f0923cc80c9ac68d961a5f53c203d506b93c9545be463a8e923d
+	1
+	CheeseBank_3	0x782965ea811c225c369bd50eb006b31543be9668f6d56f42e396ac0cf6d9cdbd
+	1
+	Warp_interface	0x13784adfa9136146fe1e267e2ab1e63ae8ce71e56417224cafbe7e2d436cd3be
+	1
+	CheeseBank_2	0xc16221018733acfeab19c9f7cca7caa83d9b38be2e696c896d780de00b9865da
+	1
+	CheeseBank_3	0x153db06a70730176d99d89dbd2999c17cf7bea2d2d0451d22a146e7903ceb8d9
+	1
+	CheeseBank_1	0x1597c038bba9c78e00db5896b8fa51a746ef19d1139664a3985e6063e997b6dc
+	1
+
+
+For checkSameSenderBlock
+FPs: 
+
+
+
+For checkSameOriginBlock
+FPs: 
+
+
+
+For callvalue
+FPs: 
+	RoninNetwork	0x873b1ef913ab086a56c3b893b1d6277675aa25673ba0e6b0a1fc753d0f3ecec1
+	2
+	HarmonyBridge	0xe8116061bf951890f82f9738543ba36fda419f5a832cf9dfd3aa0bee705df294
+	2
+	RariCapital1	0xe4530d47ce4f6d24d32bdfac793e11dad9dd7e848f7ecd46675af6050428fd33
+	2
+	RariCapital2_1	0xd1c61f4ecab7d483036297976f4d1c0ce055d1d61c0a479f8bf21d77a18ca2a4
+	2
+	XCarnival	0x94b88fb785eefe42ec8fc03035c495a1740f5f8fc3cc977300569e105859d4cc
+	2
+	XCarnival	0x2e4d7f9940f2940be1f8bb61d35d8ca0225c73ef97332a6db5fcf5ddff156f18
+	2
+	XCarnival	0xa328a9377157276b7c88281f83970c6f1ff417c77e7e7c7e4d2c9236af1b6935
+	2
+	XCarnival	0x48085239ff06c312b894e3ffff4abc2b10426d010f84ad8f2627ab019cc8cb6a
+	2
+
+
+For totalSupply
+FPs: 
+	CreamFi2_1	0x3f35481b7017b128d4fcfcf6b91cd2ce551eda7bceafdf306fc118a228377a0b
+	1
+	BeanstalkFarms	0x30a79032d57e0ad5ba5d83a9ef3c91e42d65a60629ce2da3be7a13ce0208d17a
+	1
+	RariCapital2_1	0x7ae5393d27f0e609a85c6bfb2611616ee596dcbfa0e108a5819d78f7e3772210
+	1
+	InverseFi	0xccaf052c3e4bf0cbfd756bfbe8c2aa78f61a88a8725663eaeac52006ca072478
+	1
+	Harvest1_fUSDT	0x47fd9f06ff620a7c909fde4e19f767f8458d0c1b779ff3b43facf8597b843fcf
+	1
+	ValueDeFi	0x0cfe1466be9e8b392c5e164d1e95307f7f9d7f7bfde0746848130ea5188d5431
+	1
+	RariCapital2_1	0x0d61d1614925b4f9c71563593f5aff0afcabbd806b0140c461d8705b38be79de
+	1
+	Eminence	0x712196067d5a4c42f1345fb660a7901f4279ad5e666ded2191752b137a5cb92d
+	1
+	Harvest1_fUSDT	0xad9b7e0dd46472fbfc721cc2501b92f5b8c9ebecb78986f1219cfda0ea6aaa8b
+	1
+	IndexFi	0xe8650c833566f6e32dd0a4f82655c5e14181a5b4d432a9dd272fc8a85743ba84
+	1
+
+
+For isSenderManager
+FPs: 
+	CreamFi2_3	0xdd944a682f9185e2f76b17ab44dce1ce13f511ad8c710cbbdaee9eeba307a248
+	1 via defi
+	RariCapital1	0x39608f57f818b46259ea8722bb9d2bd2d84884057ae967f33534297cf274e9c0
+	1 via defi
+	BeanstalkFarms	0x022c34d44184ffe145b6b802b43552bd240c6a6952a86fa1032592e32285a3a8
+	1 via defi
+	CreamFi2_3	0xbf6deab08e4bc86e5a25746e0a3ec5abcf0846794df145ecc55477e320edf5b5
+	1 via defi
+	RariCapital1	0xd502264ba1b7fd50d91dc7ba1b446253a4a5a7b1583f98a6fc6f238db8ff6b8b
+	1 via defi
+	CreamFi1_2	0xcaf6d5002732233a1b09d6f1ad00193f2d1ba62fe201273e3bb9bcab04002dc3
+	1 deployer
+	CreamFi2_3	0x26fed227e42d041e1baab680e870eb7eac6356409b58a310921b5e6bb291496e
+	1 via defi
+	CreamFi1_2	0x2c0dce111dca6e0362e39ea1fba21290c745d2b7739efa3aaf373e75db533fd5
+	1 via 1inch
+	RariCapital1	0x695e5bed8824fa1b6d2448bbfc983c91edc6ba2ff18806527cd32c8630ff3805
+	1 via defi
+	DODO	0x68541d8cf34015dd31c9f1d379705d145ea35c8526a3c3d1fd14e1a0d3affe08
+	1 MEV bot
+
+
+For tokenInRatioUpperBound
+FPs: 
+	XCarnival	0x2e4d7f9940f2940be1f8bb61d35d8ca0225c73ef97332a6db5fcf5ddff156f18
+	2
+	XCarnival	0x30477141ca1dace4d9e951530200d536766d75775362887efc3239f5de521e4e
+	2
+	XCarnival	0x94b88fb785eefe42ec8fc03035c495a1740f5f8fc3cc977300569e105859d4cc
+	2
+	CreamFi2_3	0x417bc968ccfafbcdedf63598d5dd2500de39507f50e175cff8b8f437510c7981
+	2
+	CheeseBank_1	0x69b887171e06178b2690f8802049c547a0a5a2a7e7a537e61ada7a1d5fa304ca
+	2
+	Yearn1_interface	0x6f9f95fd1b20af9ff0b9c091ab6b61800bc7a3c09357173e45a292917b916085
+	2
+	CheeseBank_1	0x66e2341145802b07ed84dff2bec7da3d4298973902228d8470e33689083a5c2b
+	2
+	CheeseBank_3	0xb679a701d0f414d218363695df5304e9944e82925450b436e53f9dfc9cf75d0a
+	2
+	InverseFi	0xaaea6dff0c03968dfe04068c09ae687cf0856a8ca5bc0886bb27d5928951a049
+	2 MEV bot
+	InverseFi	0x388fda492958feeb06156e15ce7557776a598f6e643f9aa0dcef2afa5b7f190f
+	2 MEV bot
+
+
+For isSenderOwner
+FPs: 
+	CreamFi1_2	0xe2f2c0f93fd87df1cd358db42b7d28563e70d467af439c423095751ce505e0a8
+	1
+	BeanstalkFarms_interface	0x33c49da5a396fadd70536c5389afe01d0d6354e3be01478e0c426f08a81ea804
+	1
+	InverseFi	0x8871c99b991c8ba4d0cd570d9661e572b5d37c052c398288d7429a2c8bd50bae
+	1
+	XCarnival	0x48085239ff06c312b894e3ffff4abc2b10426d010f84ad8f2627ab019cc8cb6a
+	1
+	CreamFi2_1	0xf1570adb8ae4d4b680a81df6a5a8df4d3330b4aa9014f641204cd102cc0ad255
+	1
+	Harvest1_fUSDT	0xc5c4c38c34a23405eafe82c81dcf6c44116e80f3f1aaaed2fd95f8d3f8a2d556
+	1
+	CreamFi1_2	0xf500a0ce0e3b1f66653fd3a6bf50f2db5849b2886f34db3a7c71cbe334905ad0
+	1
+	UmbrellaNetwork	0x2fcf3fda994b0836c3624c45acd33cfd1426b8e32ecaf2fc0a7b95a3d3bac630
+	1
+	CreamFi1_2	0x3155530cb8e3e1f8f6bf4d6455c9d1850f086ad4f1631c69644b49900c592b0c
+	1
+	BeanstalkFarms_interface	0xe0f4706480993c80ebbb05cb8bc58c33d60dbc1aac65f41b9e4fbf8f83d919b5
+	1
+
+
+For NonReentrantLocks
+FPs: 
+
+
+For isOriginOwner
+FPs: 
+	Yearn1_interface	0x49d62533adb1131d476ff0a4f67d5a41ba1e65c2ceeb1de54eb8ad9d4f87bf8e
+	1
+	XCarnival	0x25c96d5ddcd0b2d56364480227744cddc8613ed221b72c2074dfeff2f015b922
+	1
+	Yearn1_interface	0x0b6cb1534af3254ac69db83794609c8c6debbc3471a5dcde6b7d6df7ad84eb44
+	1
+	XCarnival	0xa328a9377157276b7c88281f83970c6f1ff417c77e7e7c7e4d2c9236af1b6935
+	1
+	Yearn1_interface	0x4d30d5fde395fda81c54ca9454ccecff576875b66555489ea0225efd70c02000
+	1
+	BeanstalkFarms_interface	0x33c49da5a396fadd70536c5389afe01d0d6354e3be01478e0c426f08a81ea804
+	1
+	CreamFi1_2	0xb888943d62c56b42db472e09c4e07c95dd837dfd453e92a40977d80560f4bb17
+	1
+	CreamFi2_1	0xd21ca9211ba20cd58a922db06f4a0441fd377889528ffff6f5fbe83bc0840d34
+	1
+	InverseFi	0x8871c99b991c8ba4d0cd570d9661e572b5d37c052c398288d7429a2c8bd50bae
+	1
+	XCarnival	0x94b88fb785eefe42ec8fc03035c495a1740f5f8fc3cc977300569e105859d4cc
+	1
+
+
+For mapping
+   they are all repay!!!!
+FPs: 
+	XCarnival	0x2e4d7f9940f2940be1f8bb61d35d8ca0225c73ef97332a6db5fcf5ddff156f18
+	1
+	IndexFi	0x576025b9fadcb430a7ba0165b2b3be656a38d11e1af15c3f774d75bae3610106
+	1 MEV bot
+	CreamFi2_2	0x11cb3d908077d327851c305c2aa554800dcc92b731c2dc4a10fdb03882d4299d
+	1
+	XCarnival	0x94b88fb785eefe42ec8fc03035c495a1740f5f8fc3cc977300569e105859d4cc
+	1
+	IndexFi	0x87721d79f84c9b43100f4a62231e4b0f9320dfadd14ddba21f27456278127751
+	1 MEV bot
+	CreamFi2_2	0xc5486263b7ea323a9cacbeefaf35d077bbfbc4488e4add20811bc06ef7fc38db
+	1
+	XCarnival	0x48085239ff06c312b894e3ffff4abc2b10426d010f84ad8f2627ab019cc8cb6a
+	1
+	RariCapital2_3	0x43111f9f05fc58c874a32e9155ff69c0da6e27797fe404e85e2d1111209191b9
+	1
+	RariCapital2_3	0x999d7b84d8029f7a84fabf505ebf2770351699327134427d619fe035529fbd9e
+	1
+	IndexFi	0x4ec3bc16b2ac5d9ca6a41ef4da93d5ec98fec20ff91717ef496d00cf921d1d08
+	1 MEV bot
+

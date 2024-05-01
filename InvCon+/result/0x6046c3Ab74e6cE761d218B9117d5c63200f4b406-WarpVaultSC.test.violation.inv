@@ -1,0 +1,884 @@
+{
+    "0xada6f9cf1a8088cba92ffae2602835ff980f7e9882145a99f4a598f1f2749750": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa3831c9f55b9ecf723c1154bb1336d79f86ecd6e6700f319976f1a78eb6e9fd0": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd7d0372a1c32d39c9e3e90efa10365bf3163e81c3d1d709ebf73dee8894fe8f7": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6e47567ebab73b7fb1dfb54b54371eff6475ab093dd1f66ea586755a546570c0": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd5c8ecb5cec167cf7b848173b7406d63aee6e9fc6b20f2a3665130fd5849e1a6": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x743adaa43d2145c9acbbc1d786a78933fe9b96d71aea4cd8dc2d80abd1557a26": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7747e75a8de89fa3afc00d0a6d0cdc67331bf93c793f775e26958b7f919fbf33": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd0f360d6657a3b9e748c7897b8ac4a67806d523db937fb4eef9ef999fef0fe46": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x56087f39f9f987ffd72f38007d9b6736f1708bb72324a9915de23623fa5bc495": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows <= principalBalance[msg.sender]",
+                "ori(totalBorrows) <= principalBalance[msg.sender]"
+            ]
+        }
+    ],
+    "0xbe8ee2cc250c1a15d9da2de5bbe718d5c830a20be872cc21088205275a39bfed": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(Sum(historicalReward[...])) <= principalBalance[msg.sender]",
+                "totalBorrows <= principalBalance[msg.sender]",
+                "ori(totalReserves) <= principalBalance[msg.sender]",
+                "Sum(historicalReward[...]) <= principalBalance[msg.sender]",
+                "ori(totalBorrows) <= principalBalance[msg.sender]",
+                "principalBalance[msg.sender] >= totalReserves"
+            ]
+        }
+    ],
+    "0x5b4ec28ffaf1ef0c9d51432e647f44e9cfe32c6aacf92ed971210c671f174166": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xea3f766afbbda8192ab45cc981a46903e1c0ff4ee275e15508820643177ce4dc": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows <= principalBalance[msg.sender]",
+                "ori(totalReserves) <= principalBalance[msg.sender]",
+                "Sum(historicalReward[...]) <= principalBalance[msg.sender]",
+                "ori(totalBorrows) <= principalBalance[msg.sender]",
+                "principalBalance[msg.sender] >= totalReserves"
+            ]
+        }
+    ],
+    "0xf283d4019658ff5b3fcc2a542dbf1cfafa5d206640e65451289ddea418269cba": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe5099763e3d4690d0189dc0b04d3fca0f0164a90da4f97f78d26143046924bdc": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1ab50fd1ff8f3ae41f50a7265b837e5de19dfc07d06a654a538a1995f2039540": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows <= principalBalance[msg.sender]",
+                "ori(totalReserves) <= principalBalance[msg.sender]",
+                "Sum(historicalReward[...]) <= principalBalance[msg.sender]",
+                "ori(totalBorrows) <= principalBalance[msg.sender]",
+                "principalBalance[msg.sender] >= totalReserves"
+            ]
+        }
+    ],
+    "0x6eeddc18373022392be61d0bdf4b34488e0aef71f2eff226eeb0d85959d870b2": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x992274ffcc9e90734318a8c7abb5013025e5ce001f02bf95ee31789b10311ebd": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x84f05bd38f96c38a0e4767ba4268866659997696d15531c7405d492e392f4eae": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd87fae28f8b293eb4ea5cf5ec2bd7615a0aac86c21f5cd969eca950dcb33d35a": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x54ed38d1660792c5614c49d2786c08dd6bf8fe61263ede6aae067dfa44bff92f": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe0ecbcc4e0ffd4544a7ff32d96ab16f623de68a59b2c86d18c34cecf01b7e52e": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc5c7c8ad8341ffa04507e71a70edfca9dd38e628526caf5f5be973f2c11d5798": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1356670c53b451a54260ecc8aa69d0c7af10fdb982be64281da79ebdecf32024": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(principalBalance[msg.sender]) one of [108014795589136141937285,50617790000006199636230,10140000000000000000000,200000000000000000000000,3360000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,24116000000000000000000]",
+                "_amount one of [4800000000000000000000,50617790000006199636230,10140000000000000000000,400000000000000000000,200000000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,60000000000000000000]",
+                "ori(accrualBlockNumber) one of [11465761,11465797,11469037,11469103,11465840,11467472,11469680,11469269,11466839,11465819]",
+                "accrualBlockNumber one of [11469185,11465766,11465865,11466921,11465806,11469103,11469397,11470072,11465819,11467483]",
+                "ori(Sum(principalBalance[...])) one of [3328885916590074681121641,244674803047103943536934,717748155896359988043230,244781446517984265951995,3329635916787557214669450,3309717152295172328257246,946329951729819665848493,241491266517984265951995,192117013047097743900704,3333685916578636788404932]",
+                "borrowIndex one of [1000050434480207937,1000065876345213187,1000034998347315973,1000045067628683496,1000034437064563726,1000068675929684335,1000066657180792912,1000075103609585750,1000034056534061273,1000034560737015482]",
+                "ori(borrowIndex) one of [1000050329491320353,1000034351445184323,1000065876345213187,1000065247869028901,1000044285252166157,1000034760515609233,1000067457062715160,1000034008967755673,1000034560737015482,1000071370794065500]",
+                "Sum(principalBalance[...]) one of [3109717154930883488298928,3328885916590074681121641,231351266517984265951995,3299635917310762871800865,241481446517984265951995,3324635916787557214669450,945929951797503820080700,712748156140683523911208,192057013047097743900704,194057013047097743900704]",
+                "ori(Sum(historicalReward[...])) <= principalBalance[msg.sender]",
+                "totalBorrows <= principalBalance[msg.sender]",
+                "ori(totalReserves) <= principalBalance[msg.sender]",
+                "Sum(historicalReward[...]) <= principalBalance[msg.sender]",
+                "ori(totalBorrows) <= principalBalance[msg.sender]",
+                "principalBalance[msg.sender] >= totalReserves"
+            ]
+        }
+    ],
+    "0x0c368769dcf391ef28a791d7f79114dbd3ef44fcce5cb5c168f6370d9a0e3989": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(accrualBlockNumber) < accrualBlockNumber",
+                "ori(accrualBlockNumber) != accrualBlockNumber",
+                "borrowIndex > ori(borrowIndex)",
+                "borrowIndex != ori(borrowIndex)"
+            ]
+        }
+    ],
+    "0xf02034c1ccd6f843e75263506b211ef289ae382f2f1d31355fa7901a2ce2c7aa": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4cec08785f15e11adc413c2f375cb1e826fb579595db32b0723d725f78510f75": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xce0e9ac7951bce153a979f706e24ad75c278deb274acc95b8dd1934cf0c85cbb": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x01b37e86a62f7e3e7cdd289954cac976654e50275581743af81eb04949504ed5": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xbf669d16ef00b68bf9d2cdf9ab24e42a6cf32c92daaa3121ed66d0a4adf08814": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb24043d073a2cb1b1b7c147d6c46638367f3cece996f2da39723ac84c745c443": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9a3da899221dd7019aadde2c9f46eb94af4ba39f07e30fce6549e7a4389acf1d": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(principalBalance[msg.sender]) one of [108014795589136141937285,50617790000006199636230,10140000000000000000000,200000000000000000000000,3360000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,24116000000000000000000]",
+                "_amount one of [4800000000000000000000,50617790000006199636230,10140000000000000000000,400000000000000000000,200000000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,60000000000000000000]",
+                "ori(accrualBlockNumber) one of [11465761,11465797,11469037,11469103,11465840,11467472,11469680,11469269,11466839,11465819]",
+                "ori(historicalReward[msg.sender]) == 0",
+                "ori(historicalReward[msg.sender]) == 0",
+                "accrualBlockNumber one of [11469185,11465766,11465865,11466921,11465806,11469103,11469397,11470072,11465819,11467483]",
+                "ori(Sum(principalBalance[...])) one of [3328885916590074681121641,244674803047103943536934,717748155896359988043230,244781446517984265951995,3329635916787557214669450,3309717152295172328257246,946329951729819665848493,241491266517984265951995,192117013047097743900704,3333685916578636788404932]",
+                "borrowIndex one of [1000050434480207937,1000065876345213187,1000034998347315973,1000045067628683496,1000034437064563726,1000068675929684335,1000066657180792912,1000075103609585750,1000034056534061273,1000034560737015482]",
+                "ori(borrowIndex) one of [1000050329491320353,1000034351445184323,1000065876345213187,1000065247869028901,1000044285252166157,1000034760515609233,1000067457062715160,1000034008967755673,1000034560737015482,1000071370794065500]",
+                "Sum(principalBalance[...]) one of [3109717154930883488298928,3328885916590074681121641,231351266517984265951995,3299635917310762871800865,241481446517984265951995,3324635916787557214669450,945929951797503820080700,712748156140683523911208,192057013047097743900704,194057013047097743900704]",
+                "percent >= ori(historicalReward[msg.sender])",
+                "percent > ori(historicalReward[msg.sender])",
+                "ori(accrualBlockNumber) >= ori(historicalReward[msg.sender])",
+                "ori(accrualBlockNumber) > ori(historicalReward[msg.sender])",
+                "timeWizard >= ori(historicalReward[msg.sender])",
+                "timeWizard > ori(historicalReward[msg.sender])",
+                "ori(historicalReward[msg.sender]) <= ori(divisor)",
+                "ori(historicalReward[msg.sender]) < ori(divisor)",
+                "ori(historicalReward[msg.sender]) <= divisor",
+                "ori(historicalReward[msg.sender]) < divisor",
+                "ori(historicalReward[msg.sender]) == msg.value",
+                "ori(historicalReward[msg.sender]) <= msg.value",
+                "ori(historicalReward[msg.sender]) <= accrualBlockNumber",
+                "ori(historicalReward[msg.sender]) < accrualBlockNumber",
+                "ori(historicalReward[msg.sender]) <= ori(timeWizard)",
+                "ori(historicalReward[msg.sender]) < ori(timeWizard)",
+                "ori(historicalReward[msg.sender]) <= ori(percent)",
+                "ori(historicalReward[msg.sender]) < ori(percent)",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "",
+                "",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x6e736e4fdc06fa35889b2892a246c0a9d3e95953df6d6058054f4c881406102f": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x656ee06065b8e51d9d133dad090f0c0c2276bdd592b22d97a1a73a6d0e8ed9f2": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0xf0d1f30a61abb4449679b3b9d5eddf4c3d9fa80e4a9e456c0a9f7d80631348a1": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(principalBalance[msg.sender]) one of [108014795589136141937285,50617790000006199636230,10140000000000000000000,200000000000000000000000,3360000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,24116000000000000000000]",
+                "_amount one of [4800000000000000000000,50617790000006199636230,10140000000000000000000,400000000000000000000,200000000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,60000000000000000000]",
+                "ori(accrualBlockNumber) one of [11465761,11465797,11469037,11469103,11465840,11467472,11469680,11469269,11466839,11465819]",
+                "ori(historicalReward[msg.sender]) == 0",
+                "ori(historicalReward[msg.sender]) == 0",
+                "accrualBlockNumber one of [11469185,11465766,11465865,11466921,11465806,11469103,11469397,11470072,11465819,11467483]",
+                "ori(Sum(principalBalance[...])) one of [3328885916590074681121641,244674803047103943536934,717748155896359988043230,244781446517984265951995,3329635916787557214669450,3309717152295172328257246,946329951729819665848493,241491266517984265951995,192117013047097743900704,3333685916578636788404932]",
+                "borrowIndex one of [1000050434480207937,1000065876345213187,1000034998347315973,1000045067628683496,1000034437064563726,1000068675929684335,1000066657180792912,1000075103609585750,1000034056534061273,1000034560737015482]",
+                "ori(borrowIndex) one of [1000050329491320353,1000034351445184323,1000065876345213187,1000065247869028901,1000044285252166157,1000034760515609233,1000067457062715160,1000034008967755673,1000034560737015482,1000071370794065500]",
+                "principalBalance[msg.sender] one of [0,197482533547809,107614795656820296169492,523205657131415,19116000244323535867978,99774800106030519203782,2635711160041682,1381672561617747,3300000000000000000000,200000011437892716709]",
+                "Sum(principalBalance[...]) one of [3109717154930883488298928,3328885916590074681121641,231351266517984265951995,3299635917310762871800865,241481446517984265951995,3324635916787557214669450,945929951797503820080700,712748156140683523911208,192057013047097743900704,194057013047097743900704]",
+                "percent >= ori(historicalReward[msg.sender])",
+                "percent > ori(historicalReward[msg.sender])",
+                "ori(accrualBlockNumber) >= ori(historicalReward[msg.sender])",
+                "ori(accrualBlockNumber) > ori(historicalReward[msg.sender])",
+                "timeWizard >= ori(historicalReward[msg.sender])",
+                "timeWizard > ori(historicalReward[msg.sender])",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(historicalReward[msg.sender]) <= ori(divisor)",
+                "ori(historicalReward[msg.sender]) < ori(divisor)",
+                "ori(historicalReward[msg.sender]) <= divisor",
+                "ori(historicalReward[msg.sender]) < divisor",
+                "ori(historicalReward[msg.sender]) == msg.value",
+                "ori(historicalReward[msg.sender]) <= msg.value",
+                "ori(historicalReward[msg.sender]) <= accrualBlockNumber",
+                "ori(historicalReward[msg.sender]) < accrualBlockNumber",
+                "ori(historicalReward[msg.sender]) <= ori(timeWizard)",
+                "ori(historicalReward[msg.sender]) < ori(timeWizard)",
+                "ori(historicalReward[msg.sender]) <= ori(percent)",
+                "ori(historicalReward[msg.sender]) < ori(percent)",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "",
+                "",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x5a2a391ae908e1857d3e6e0620630cfc05b271999ad2461ef2ca7c91e3cc4432": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(principalBalance[msg.sender]) <= initialExchangeRateMantissa",
+                "ori(principalBalance[msg.sender]) < initialExchangeRateMantissa",
+                "ori(principalBalance[msg.sender]) <= borrowIndex",
+                "ori(principalBalance[msg.sender]) < borrowIndex",
+                "ori(principalBalance[msg.sender]) <= ori(borrowIndex)",
+                "ori(principalBalance[msg.sender]) < ori(borrowIndex)",
+                "ori(principalBalance[msg.sender]) <= ori(initialExchangeRateMantissa)",
+                "ori(principalBalance[msg.sender]) < ori(initialExchangeRateMantissa)",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x8736b12cb27aecc23b58ecc6053674ff9652336c11002f52bafcad11e49ab5a7": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows one of [0,1700000000000000000000,1700000990533000927394,1700001461346641325507,2500127939290155617224,2500018425676238427020,2500014747442558167854,1700002922104675889867,2500131771497336552946,2500103349176920888512]",
+                "ori(totalReserves) one of [0,73067332066273,683036121995649,137992010120165,903372567027429,6319606336202378,6396964507780815,17056636312533,5151984640788728,64138162264925]",
+                "ori(totalBorrows) one of [0,1700001461346641325507,2500127939290155617224,1700000341132726250664,1700002759840202403403,2500126392126724048465,1700001282763245298541,2500103039692815775378,1700013660722439913235,2500018067451340548866]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0xa87919d188b21eede6ce337df3cc343aba90ff9c3ab1d8dec28a69ea27313581": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(principalBalance[msg.sender]) one of [108014795589136141937285,50617790000006199636230,10140000000000000000000,200000000000000000000000,3360000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,24116000000000000000000]",
+                "_amount one of [4800000000000000000000,50617790000006199636230,10140000000000000000000,400000000000000000000,200000000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,60000000000000000000]",
+                "ori(accrualBlockNumber) one of [11465761,11465797,11469037,11469103,11465840,11467472,11469680,11469269,11466839,11465819]",
+                "totalBorrows one of [0,2500069973252441271751,2500062974576007977641,2500133175848706142190,2500086041798438145233,2500105634598287949841,2500126392126724048465,2500024371484080528156,2500064926585538828095,1700012168507227747835]",
+                "ori(historicalReward[msg.sender]) == 0",
+                "ori(historicalReward[msg.sender]) == 0",
+                "accrualBlockNumber one of [11469185,11465766,11465865,11466921,11465806,11469103,11469397,11470072,11465819,11467483]",
+                "ori(Sum(principalBalance[...])) one of [3328885916590074681121641,244674803047103943536934,717748155896359988043230,244781446517984265951995,3329635916787557214669450,3309717152295172328257246,946329951729819665848493,241491266517984265951995,192117013047097743900704,3333685916578636788404932]",
+                "ori(totalReserves) one of [0,5167458846044384,3346310449439395,5983992326571459,1205451126997161,3070172473465706,6588574866827601,3835506965032057,541925878369854,3148728800398847]",
+                "borrowIndex one of [1000050434480207937,1000065876345213187,1000034998347315973,1000045067628683496,1000034437064563726,1000068675929684335,1000066657180792912,1000075103609585750,1000034056534061273,1000034560737015482]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "historicalReward[msg.sender] one of [0,197482533547809,4516894377266497,11437892716709,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalBorrows) one of [0,2500062974576007977641,2500119679846531430081,1700010838517567397322,2500066926208988788624,2500131771497336552946,2500061403449469314808,2500103349176920888512,2500076710139300641889,2500024109022539943586]",
+                "ori(borrowIndex) one of [1000050329491320353,1000034351445184323,1000065876345213187,1000065247869028901,1000044285252166157,1000034760515609233,1000067457062715160,1000034008967755673,1000034560737015482,1000071370794065500]",
+                "principalBalance[msg.sender] one of [0,197482533547809,107614795656820296169492,523205657131415,19116000244323535867978,99774800106030519203782,2635711160041682,1381672561617747,3300000000000000000000,200000011437892716709]",
+                "Sum(principalBalance[...]) one of [3109717154930883488298928,3328885916590074681121641,231351266517984265951995,3299635917310762871800865,241481446517984265951995,3324635916787557214669450,945929951797503820080700,712748156140683523911208,192057013047097743900704,194057013047097743900704]",
+                "totalReserves one of [0,4302089921907224,5281729914397450,6319606336202378,608425361387379,1218574204026389,6658792435307063,3498662622063551,3246329276941369,3148728800398847]",
+                "percent >= ori(historicalReward[msg.sender])",
+                "percent > ori(historicalReward[msg.sender])",
+                "ori(accrualBlockNumber) >= ori(historicalReward[msg.sender])",
+                "ori(accrualBlockNumber) > ori(historicalReward[msg.sender])",
+                "timeWizard >= ori(historicalReward[msg.sender])",
+                "timeWizard > ori(historicalReward[msg.sender])",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(historicalReward[msg.sender]) <= ori(divisor)",
+                "ori(historicalReward[msg.sender]) < ori(divisor)",
+                "ori(historicalReward[msg.sender]) <= divisor",
+                "ori(historicalReward[msg.sender]) < divisor",
+                "ori(historicalReward[msg.sender]) == msg.value",
+                "ori(historicalReward[msg.sender]) <= msg.value",
+                "ori(historicalReward[msg.sender]) <= accrualBlockNumber",
+                "ori(historicalReward[msg.sender]) < accrualBlockNumber",
+                "ori(historicalReward[msg.sender]) <= ori(timeWizard)",
+                "ori(historicalReward[msg.sender]) < ori(timeWizard)",
+                "ori(historicalReward[msg.sender]) <= ori(percent)",
+                "ori(historicalReward[msg.sender]) < ori(percent)",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "",
+                "",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x0e740a0df61c3f8b796738c330a1ffa51b1fc9ead258e944d276305be53eb6ca": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows one of [0,1700000000000000000000,1700000990533000927394,1700001461346641325507,2500127939290155617224,2500018425676238427020,2500014747442558167854,1700002922104675889867,2500131771497336552946,2500103349176920888512]",
+                "ori(totalReserves) one of [0,73067332066273,683036121995649,137992010120165,903372567027429,6319606336202378,6396964507780815,17056636312533,5151984640788728,64138162264925]",
+                "ori(totalBorrows) one of [0,1700001461346641325507,2500127939290155617224,1700000341132726250664,1700002759840202403403,2500126392126724048465,1700001282763245298541,2500103039692815775378,1700013660722439913235,2500018067451340548866]",
+                "totalReserves one of [0,49526650046369,73067332066273,5167458846044384,921283811921336,6396964507780815,6588574866827601,6793277072869750,146105233794488,737372127908379]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x7352e9e6fcef5035dcc26c5ee5ad4212132eee0d77a6717695ccad7c713c2ba0": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(accrualBlockNumber) < accrualBlockNumber",
+                "ori(accrualBlockNumber) != accrualBlockNumber",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "borrowIndex > ori(borrowIndex)",
+                "borrowIndex != ori(borrowIndex)",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0xa11a2df06ef399882a7fb47c00e6c344b0856ef17ba7074d9e2f97bbc431701c": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x8f40a779aecaa79a1d2d0025c032e7eb05bf4e664cb092c03a8617525df71216": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(principalBalance[msg.sender]) one of [108014795589136141937285,50617790000006199636230,10140000000000000000000,200000000000000000000000,3360000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,24116000000000000000000]",
+                "_amount one of [4800000000000000000000,50617790000006199636230,10140000000000000000000,400000000000000000000,200000000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,60000000000000000000]",
+                "ori(accrualBlockNumber) one of [11465761,11465797,11469037,11469103,11465840,11467472,11469680,11469269,11466839,11465819]",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "totalBorrows one of [0,2500069973252441271751,2500062974576007977641,2500133175848706142190,2500086041798438145233,2500105634598287949841,2500126392126724048465,2500024371484080528156,2500064926585538828095,1700012168507227747835]",
+                "ori(historicalReward[msg.sender]) == 0",
+                "ori(historicalReward[msg.sender]) == 0",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "accrualBlockNumber one of [11469185,11465766,11465865,11466921,11465806,11469103,11469397,11470072,11465819,11467483]",
+                "ori(Sum(principalBalance[...])) one of [3328885916590074681121641,244674803047103943536934,717748155896359988043230,244781446517984265951995,3329635916787557214669450,3309717152295172328257246,946329951729819665848493,241491266517984265951995,192117013047097743900704,3333685916578636788404932]",
+                "ori(totalReserves) one of [0,5167458846044384,3346310449439395,5983992326571459,1205451126997161,3070172473465706,6588574866827601,3835506965032057,541925878369854,3148728800398847]",
+                "borrowIndex one of [1000050434480207937,1000065876345213187,1000034998347315973,1000045067628683496,1000034437064563726,1000068675929684335,1000066657180792912,1000075103609585750,1000034056534061273,1000034560737015482]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "historicalReward[msg.sender] one of [0,197482533547809,4516894377266497,11437892716709,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalBorrows) one of [0,2500062974576007977641,2500119679846531430081,1700010838517567397322,2500066926208988788624,2500131771497336552946,2500061403449469314808,2500103349176920888512,2500076710139300641889,2500024109022539943586]",
+                "ori(borrowIndex) one of [1000050329491320353,1000034351445184323,1000065876345213187,1000065247869028901,1000044285252166157,1000034760515609233,1000067457062715160,1000034008967755673,1000034560737015482,1000071370794065500]",
+                "principalBalance[msg.sender] one of [0,197482533547809,107614795656820296169492,523205657131415,19116000244323535867978,99774800106030519203782,2635711160041682,1381672561617747,3300000000000000000000,200000011437892716709]",
+                "Sum(principalBalance[...]) one of [3109717154930883488298928,3328885916590074681121641,231351266517984265951995,3299635917310762871800865,241481446517984265951995,3324635916787557214669450,945929951797503820080700,712748156140683523911208,192057013047097743900704,194057013047097743900704]",
+                "totalReserves one of [0,4302089921907224,5281729914397450,6319606336202378,608425361387379,1218574204026389,6658792435307063,3498662622063551,3246329276941369,3148728800398847]",
+                "percent >= ori(historicalReward[msg.sender])",
+                "percent > ori(historicalReward[msg.sender])",
+                "ori(accrualBlockNumber) >= ori(historicalReward[msg.sender])",
+                "ori(accrualBlockNumber) > ori(historicalReward[msg.sender])",
+                "timeWizard >= ori(historicalReward[msg.sender])",
+                "timeWizard > ori(historicalReward[msg.sender])",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(historicalReward[msg.sender]) <= ori(divisor)",
+                "ori(historicalReward[msg.sender]) < ori(divisor)",
+                "ori(historicalReward[msg.sender]) <= divisor",
+                "ori(historicalReward[msg.sender]) < divisor",
+                "ori(historicalReward[msg.sender]) == msg.value",
+                "ori(historicalReward[msg.sender]) <= msg.value",
+                "ori(historicalReward[msg.sender]) <= accrualBlockNumber",
+                "ori(historicalReward[msg.sender]) < accrualBlockNumber",
+                "ori(historicalReward[msg.sender]) <= ori(timeWizard)",
+                "ori(historicalReward[msg.sender]) < ori(timeWizard)",
+                "ori(historicalReward[msg.sender]) <= ori(percent)",
+                "ori(historicalReward[msg.sender]) < ori(percent)",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "",
+                "",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x0c1f191589f4bfdb765fd93e90f79a8f27ce7f02c1f4f800432e9ac161614f6a": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows one of [0,1700000000000000000000,1700000990533000927394,1700001461346641325507,2500127939290155617224,2500018425676238427020,2500014747442558167854,1700002922104675889867,2500131771497336552946,2500103349176920888512]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalReserves) one of [0,73067332066273,683036121995649,137992010120165,903372567027429,6319606336202378,6396964507780815,17056636312533,5151984640788728,64138162264925]",
+                "ori(totalBorrows) one of [0,1700001461346641325507,2500127939290155617224,1700000341132726250664,1700002759840202403403,2500126392126724048465,1700001282763245298541,2500103039692815775378,1700013660722439913235,2500018067451340548866]",
+                "totalReserves one of [0,49526650046369,73067332066273,5167458846044384,921283811921336,6396964507780815,6588574866827601,6793277072869750,146105233794488,737372127908379]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x6d98e774cca300483bf1d7b1be1f823e3e98acce2515c3752b70d46c5dc3aaba": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows one of [0,1700000000000000000000,1700000990533000927394,1700001461346641325507,2500127939290155617224,2500018425676238427020,2500014747442558167854,1700002922104675889867,2500131771497336552946,2500103349176920888512]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalReserves) one of [0,73067332066273,683036121995649,137992010120165,903372567027429,6319606336202378,6396964507780815,17056636312533,5151984640788728,64138162264925]",
+                "ori(totalBorrows) one of [0,1700001461346641325507,2500127939290155617224,1700000341132726250664,1700002759840202403403,2500126392126724048465,1700001282763245298541,2500103039692815775378,1700013660722439913235,2500018067451340548866]",
+                "totalReserves one of [0,49526650046369,73067332066273,5167458846044384,921283811921336,6396964507780815,6588574866827601,6793277072869750,146105233794488,737372127908379]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0xc869de9b05b82e370071b4203ef3366dc8a7cdbcb699795af622d5c9d6089072": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows one of [0,1700000000000000000000,1700000990533000927394,1700001461346641325507,2500127939290155617224,2500018425676238427020,2500014747442558167854,1700002922104675889867,2500131771497336552946,2500103349176920888512]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalReserves) one of [0,73067332066273,683036121995649,137992010120165,903372567027429,6319606336202378,6396964507780815,17056636312533,5151984640788728,64138162264925]",
+                "ori(totalBorrows) one of [0,1700001461346641325507,2500127939290155617224,1700000341132726250664,1700002759840202403403,2500126392126724048465,1700001282763245298541,2500103039692815775378,1700013660722439913235,2500018067451340548866]",
+                "totalReserves one of [0,49526650046369,73067332066273,5167458846044384,921283811921336,6396964507780815,6588574866827601,6793277072869750,146105233794488,737372127908379]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        },
+        {
+            "func": "_borrow(_borrowAmount,_borrower)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x9c28af7d503a6a4204641b03e7d60c98c2556b6236b5f128041ca468ec6efc85": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(principalBalance[msg.sender]) one of [108014795589136141937285,50617790000006199636230,10140000000000000000000,200000000000000000000000,3360000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,24116000000000000000000]",
+                "_amount one of [4800000000000000000000,50617790000006199636230,10140000000000000000000,400000000000000000000,200000000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,60000000000000000000]",
+                "ori(accrualBlockNumber) one of [11465761,11465797,11469037,11469103,11465840,11467472,11469680,11469269,11466839,11465819]",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "totalBorrows one of [0,2500069973252441271751,2500062974576007977641,2500133175848706142190,2500086041798438145233,2500105634598287949841,2500126392126724048465,2500024371484080528156,2500064926585538828095,1700012168507227747835]",
+                "ori(historicalReward[msg.sender]) == 0",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "accrualBlockNumber one of [11469185,11465766,11465865,11466921,11465806,11469103,11469397,11470072,11465819,11467483]",
+                "ori(Sum(principalBalance[...])) one of [3328885916590074681121641,244674803047103943536934,717748155896359988043230,244781446517984265951995,3329635916787557214669450,3309717152295172328257246,946329951729819665848493,241491266517984265951995,192117013047097743900704,3333685916578636788404932]",
+                "ori(totalReserves) one of [0,5167458846044384,3346310449439395,5983992326571459,1205451126997161,3070172473465706,6588574866827601,3835506965032057,541925878369854,3148728800398847]",
+                "borrowIndex one of [1000050434480207937,1000065876345213187,1000034998347315973,1000045067628683496,1000034437064563726,1000068675929684335,1000066657180792912,1000075103609585750,1000034056534061273,1000034560737015482]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "historicalReward[msg.sender] one of [0,197482533547809,4516894377266497,11437892716709,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalBorrows) one of [0,2500062974576007977641,2500119679846531430081,1700010838517567397322,2500066926208988788624,2500131771497336552946,2500061403449469314808,2500103349176920888512,2500076710139300641889,2500024109022539943586]",
+                "ori(borrowIndex) one of [1000050329491320353,1000034351445184323,1000065876345213187,1000065247869028901,1000044285252166157,1000034760515609233,1000067457062715160,1000034008967755673,1000034560737015482,1000071370794065500]",
+                "principalBalance[msg.sender] one of [0,197482533547809,107614795656820296169492,523205657131415,19116000244323535867978,99774800106030519203782,2635711160041682,1381672561617747,3300000000000000000000,200000011437892716709]",
+                "Sum(principalBalance[...]) one of [3109717154930883488298928,3328885916590074681121641,231351266517984265951995,3299635917310762871800865,241481446517984265951995,3324635916787557214669450,945929951797503820080700,712748156140683523911208,192057013047097743900704,194057013047097743900704]",
+                "totalReserves one of [0,4302089921907224,5281729914397450,6319606336202378,608425361387379,1218574204026389,6658792435307063,3498662622063551,3246329276941369,3148728800398847]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x13784adfa9136146fe1e267e2ab1e63ae8ce71e56417224cafbe7e2d436cd3be": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows one of [0,1700000000000000000000,1700000990533000927394,1700001461346641325507,2500127939290155617224,2500018425676238427020,2500014747442558167854,1700002922104675889867,2500131771497336552946,2500103349176920888512]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalReserves) one of [0,73067332066273,683036121995649,137992010120165,903372567027429,6319606336202378,6396964507780815,17056636312533,5151984640788728,64138162264925]",
+                "ori(totalBorrows) one of [0,1700001461346641325507,2500127939290155617224,1700000341132726250664,1700002759840202403403,2500126392126724048465,1700001282763245298541,2500103039692815775378,1700013660722439913235,2500018067451340548866]",
+                "totalReserves one of [0,49526650046369,73067332066273,5167458846044384,921283811921336,6396964507780815,6588574866827601,6793277072869750,146105233794488,737372127908379]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0xc557296d468ec9efb8f2f722e2d9da5555a514eb73d9c56da3449577e299b190": [
+        {
+            "func": "lendToWarpVault(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0xdfdf2d92cdab150dbd14c5c83786129f0c1d6eafb5da86bcb359e3cd51a52fa8": [
+        {
+            "func": "redeem(_amount)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(principalBalance[msg.sender]) one of [108014795589136141937285,50617790000006199636230,10140000000000000000000,200000000000000000000000,3360000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,24116000000000000000000]",
+                "_amount one of [4800000000000000000000,50617790000006199636230,10140000000000000000000,400000000000000000000,200000000000000000000000,30000000000000000000000,4250000000000000000000,3300000000000000000000,5000000000000000000000,60000000000000000000]",
+                "ori(accrualBlockNumber) one of [11465761,11465797,11469037,11469103,11465840,11467472,11469680,11469269,11466839,11465819]",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "totalBorrows one of [0,2500069973252441271751,2500062974576007977641,2500133175848706142190,2500086041798438145233,2500105634598287949841,2500126392126724048465,2500024371484080528156,2500064926585538828095,1700012168507227747835]",
+                "ori(historicalReward[msg.sender]) == 0",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "accrualBlockNumber one of [11469185,11465766,11465865,11466921,11465806,11469103,11469397,11470072,11465819,11467483]",
+                "ori(Sum(principalBalance[...])) one of [3328885916590074681121641,244674803047103943536934,717748155896359988043230,244781446517984265951995,3329635916787557214669450,3309717152295172328257246,946329951729819665848493,241491266517984265951995,192117013047097743900704,3333685916578636788404932]",
+                "ori(totalReserves) one of [0,5167458846044384,3346310449439395,5983992326571459,1205451126997161,3070172473465706,6588574866827601,3835506965032057,541925878369854,3148728800398847]",
+                "borrowIndex one of [1000050434480207937,1000065876345213187,1000034998347315973,1000045067628683496,1000034437064563726,1000068675929684335,1000066657180792912,1000075103609585750,1000034056534061273,1000034560737015482]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "historicalReward[msg.sender] one of [0,197482533547809,4516894377266497,11437892716709,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalBorrows) one of [0,2500062974576007977641,2500119679846531430081,1700010838517567397322,2500066926208988788624,2500131771497336552946,2500061403449469314808,2500103349176920888512,2500076710139300641889,2500024109022539943586]",
+                "ori(borrowIndex) one of [1000050329491320353,1000034351445184323,1000065876345213187,1000065247869028901,1000044285252166157,1000034760515609233,1000067457062715160,1000034008967755673,1000034560737015482,1000071370794065500]",
+                "principalBalance[msg.sender] one of [0,197482533547809,107614795656820296169492,523205657131415,19116000244323535867978,99774800106030519203782,2635711160041682,1381672561617747,3300000000000000000000,200000011437892716709]",
+                "Sum(principalBalance[...]) one of [3109717154930883488298928,3328885916590074681121641,231351266517984265951995,3299635917310762871800865,241481446517984265951995,3324635916787557214669450,945929951797503820080700,712748156140683523911208,192057013047097743900704,194057013047097743900704]",
+                "totalReserves one of [0,4302089921907224,5281729914397450,6319606336202378,608425361387379,1218574204026389,6658792435307063,3498662622063551,3246329276941369,3148728800398847]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "totalBorrows <= principalBalance[msg.sender]",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(totalBorrows) <= principalBalance[msg.sender]",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ],
+    "0x8bb8dc5c7c830bac85fa48acad2505e9300a91c3ff239c9517d0cae33b595090": [
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows one of [0,1700000000000000000000,1700000990533000927394,1700001461346641325507,2500127939290155617224,2500018425676238427020,2500014747442558167854,1700002922104675889867,2500131771497336552946,2500103349176920888512]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalReserves) one of [0,73067332066273,683036121995649,137992010120165,903372567027429,6319606336202378,6396964507780815,17056636312533,5151984640788728,64138162264925]",
+                "ori(totalBorrows) one of [0,1700001461346641325507,2500127939290155617224,1700000341132726250664,1700002759840202403403,2500126392126724048465,1700001282763245298541,2500103039692815775378,1700013660722439913235,2500018067451340548866]",
+                "totalReserves one of [0,49526650046369,73067332066273,5167458846044384,921283811921336,6396964507780815,6588574866827601,6793277072869750,146105233794488,737372127908379]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "totalBorrows <= ori(Sum(principalBalance[...]))",
+                "totalBorrows <= Sum(principalBalance[...])",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "totalBorrows <= ori(Sum(principalBalance[...]))",
+                "totalBorrows <= Sum(principalBalance[...])",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        },
+        {
+            "func": "borrowBalanceCurrent(account)",
+            "reverted": false,
+            "violated_invs": [
+                "totalBorrows one of [0,1700000000000000000000,1700000990533000927394,1700001461346641325507,2500127939290155617224,2500018425676238427020,2500014747442558167854,1700002922104675889867,2500131771497336552946,2500103349176920888512]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "ori(totalReserves) one of [0,73067332066273,683036121995649,137992010120165,903372567027429,6319606336202378,6396964507780815,17056636312533,5151984640788728,64138162264925]",
+                "ori(totalBorrows) one of [0,1700001461346641325507,2500127939290155617224,1700000341132726250664,1700002759840202403403,2500126392126724048465,1700001282763245298541,2500103039692815775378,1700013660722439913235,2500018067451340548866]",
+                "totalReserves one of [0,49526650046369,73067332066273,5167458846044384,921283811921336,6396964507780815,6588574866827601,6793277072869750,146105233794488,737372127908379]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "totalBorrows <= ori(Sum(principalBalance[...]))",
+                "totalBorrows <= Sum(principalBalance[...])",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "totalBorrows <= ori(Sum(principalBalance[...]))",
+                "totalBorrows <= Sum(principalBalance[...])",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        },
+        {
+            "func": "_borrow(_borrowAmount,_borrower)",
+            "reverted": false,
+            "violated_invs": [
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "totalBorrows <= ori(Sum(principalBalance[...]))",
+                "totalBorrows < ori(Sum(principalBalance[...]))",
+                "totalBorrows <= Sum(principalBalance[...])",
+                "totalBorrows < Sum(principalBalance[...])",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves",
+                "ori(Sum(historicalReward[...])) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "elem of historicalReward[...] is one of [197482533547809,4516894377266497,11437892716709,4777327622343685,244323535867978,67684154232207,4683036654059119,2635711160041682,1381672561617747,523205657131415]",
+                "Sum(historicalReward[...]) one of [0,3679844933537800,9676869994982459,244323535867978,9510727718189837,1044133773496118,312007690100185,5061517495155547,323445582816894,520928116364703]",
+                "ori(Sum(historicalReward[...])) <= ori(totalReserves)",
+                "ori(Sum(historicalReward[...])) <= totalReserves",
+                "totalBorrows <= ori(Sum(principalBalance[...]))",
+                "totalBorrows <= Sum(principalBalance[...])",
+                "ori(totalReserves) >= Sum(historicalReward[...])",
+                "Sum(historicalReward[...]) <= totalReserves"
+            ]
+        }
+    ]
+}

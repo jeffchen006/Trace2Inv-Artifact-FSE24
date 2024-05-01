@@ -1,0 +1,3502 @@
+{
+    "0xb8c1dc64ce7c1c800e73683253c3cfb6da7ac447382da64ecc1789aecea74ded": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd86958927f5fd697483651c8a8cc8e282f9aba8d46cb608ccee717c5c2baa6b1": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfd05a2bbcae05f2934dbfac32c71e14ff827f8cfd4090e067fc4e01c64fd9aef": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa4c52b3ba9f787b4ff879a45144bcd84002086ebb3569c7052cafd69ab14efbd": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3552d11e819b850faeb26a9644411d3cdfeba23701bf30a9467a181ac7d799d5": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcf36239212a9292d5ec92a5c5745c2a39ce32264d7544129d809570158de8539": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x04fe603bee80d8494849a46ac2f47a8d7b4752ee0f7e5184a4d149b595c3fc2c": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9f98dd5e98af5453d2201786de617cd7acafab9581bbcde773eb34bfe1d958de": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x917702c4655ce48bf4c65916e8e53857d9c3d39ed20bdd550d9960c9646323ba": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x40aec66204d97e35ad87197d5dfef7db3009ba431856c8e4275c7b7678695f19": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x674e1b5fe16da3b3c67a622515d95560c0cc84a2ee962acd5069e90deaa3c4f8": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7d07012575af91e774f6b6bc94b1d1a6387524ea5d26005b6c32e416a58bf31b": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x278d4c6584409ce58b755e297c1572182d5e55ceea6d4e6146e596c3bdb8314d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5666a6a3d486a01e99d8d43039d541fc196dfce68e9f0a55758c553d720a18d7": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x52cb5adf60ab180987b6d508546642e4b505d8cd74fa5c3a44716abc465633da": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcdeed8874c95ed0987b70e09115bb75a3cfd7bcd74440ce48c9b7f9695b0dec8": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x632b11d74b9c9eff0ef7841547fccbd0fb52bf5f26e480d5fa8bddf018e16d18": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x01a87ae92794aba100058250d55e707de8ae7aac048abf034bdcaeff4edc29d4": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9cdb7cad80b4a3a1df45727bd2b94bcfceff98cf2b47511daf3d6fb7530919a4": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb3bc48b5a23f7f581f47c561567e2ddd195e77f90fde80e66f7ff81a8bf292b8": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x31903f677d310eabde3e26ad82c1c1b96a390218c4ef50b519ce9f875abd495d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0597562e652b34510854c80a45e05c74ca0100dd982af6c06b95362a914d5740": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x84f05a1d330f205e640bf7fb1c4ebf32b9a7dfe89d6dffa6b66547941179cc64": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd4ff7375bef8620c502c08f97b9842d5aa6a2a368213106bb86391eac85d26c9": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x679569dde6d95e6cf49ef33947186a6c7e44d3fb23726921bf4f107a23b5150b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x45bac3a2b7644741a8a48960bfdcfc01f4d3f0fdb91b763fc46c809e3bf83593": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1a3d06704874a9a4589101470c18167ae9f7355462961b2734d0e4edf677d616": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9db471dce3d02329dc7174f81c6aa7e50822ca60b1e452072db6693b0726ead6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd0616ba0cd2c67a785e50b623cb6248cdb1af173327827286404689af7e6904b": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa253bc9aa1d90492275ef6b4cdc52fc1fd2d678430c59a703e91f911c6ff6cbf": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0e0c79dd3036bf86267dafa63f9412ff3c358e93e0aaa093360a452068ebf379": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xbbaa78f345a765447aae81c40f0a71c3358dc17d87f89fb0396ec9aac8abc222": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x212a43ab721359bd82f9e19f838768c18cbc4fc9655417797906b0ad4afffb85": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe53ecb61169de1ce1ba67c5156f7b50d466e2e31cd4f79f4819837298f12f7d9": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x372a81e579381f21df8f01c93b6ce98f2d7b943d4bf6485d4d9e517c37f1f09a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2685c4dabcf8052c0e853321dd3276d7c655344e05f7e434dd6a0c215db8659f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe38999ad6235445bc26982635fe574befe3e2a4f89ae4d4cec14ed7d39fc5d78": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x08ea9dd463e8e1745103b5c9bf5715d2010fa56e61a79f69ea9660372da377fa": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfb1c8faf8f2a355f0bfba8275108d0dd9bbfb0902df2a8dd5b43093c5cdf2ba2": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe926bae8dc4f00ee6875398ac3fc26fa4fff3af3d2241d98b154d0dd8ce9df11": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4bf3ecd096ba20c7622d3fd41d4db714b9abad54d9d23dec7d0155e00b42de38": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x839c314ba7def33bbfb6c08904752a0ecea781388bdd07ca11f1dee32604359e": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x35ff5678987af38e159a51013945a764561914cbc312d66db05f01ed882a06b5": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa54498a26f58227ff64236027b03b1728480add6fcddc8be1488146118a9f26b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4205441da6fc162041640745752f0ab1896b6bd9f5928b4ca68430d589b526d2": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4befa1aa95a73a04e24333fb2232ab3b536d005023b26dcef06d85d898157ea1": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x75102af0e8bad7fcc93cb07e09d8fad9a7b74f6bc3efa51692601d2b52b2e5d7": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x71e80c0324d20bb43248c9f88f8b6ed8650b1ec4a7306d316a5ac61ba2645593": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x868c41ab89b638f9deae815c519dc9b82befce1f5bdc2e3c405f039e5553c6c9": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc11a1a1e9ee232be1a9de1bb9469c4a88e796bff5d2309b4ad4c843b1e6584da": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x400fda861c935e60b30d6dca774f335a61fde20a192b53c03374caf06687df90": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8f28ebbee4b2a21dac3395eed1213aca4db9b938e2c05fbbf84605ee16808964": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd3620788a977262f7364f77f72195271c63240126d22712276eacfc3c7fcbe15": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x08e6cf97f325c24e14cbd5475f0d42ddd10e4327f89d267109bc7fb35b0a664d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2f59b0538d0c5e128b6898569d740bd95f3f8953d1087e0201ae2aa3c18d599d": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x53ebc569bb4fb4db23270aa80ff251353881c87bd03931f19173d8356130715e": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x329f81c089b3a31c6f9a7f3408252da81506786fa285e86d858f3e0c0bd0a5e2": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9004fe70920fe69cc8458843ee0bad04a0edae4532037a68c698f28988617e78": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8c68c2bcb24e50be76aabb2b13abb842f4b0e330e06d09c2c11e760d7d839a8d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x531d472aeea136d5ac9627f74b1738502a19cecb9ff59c60e8b0a53bbd27489f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa2b86776c17fb8a0a47d8103a9260f793f3defa8d01b29de8752b7e1762b5909": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3754d9037b86079f53a200e3b288799e01b1fbf24e63e8701062f29a5c4ee360": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2eba8ba186ed495f328d83d7ba45060ed6bf9de891837196357c032cbcad43cb": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdce0d40e9431efa56883b9003e4b66ca8040e3fe50b296e48e9ee9fbf41cd62a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x763826cd6a11909f5bbbf2b84717577fc3a7e70090ee698f66f29e64b845412c": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x231d853e1f255377d1e012392407718a98190dc02fc15bc176d36b591b64aa55": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc31d6bd6cdcb01764d62e5914f1b3dd93f7c3938e9ead346cda7797ab0e2af28": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9ea1046bdd3494f6a9e352c697c49966185d4c40ac200628426481f1990eca65": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb01b529eb65e15ab36187c9da86f029df4c038d05c61f297133f3b634d149ca6": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe328643d7edfa03a0093670d358a6dbc15968834078c7da443ae1b92c41be624": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5cf3e8cef05e3977c443876fdd803e5d7842d2065d0b66b3f700a49d9a4f9327": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe1433642b8f62bac2d902ac252a8e0df2f66f0759bd476a00d23ff45902fec4f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0bf17f87146abfbffe24bc2578d5a37f78aea60fe2047576fed5ecee46a0cfef": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x33b97c2e01c4c445604307512715286813d2a29b004fddf30aa91b0ddfa473f3": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc7d9a2fa6291d5bb84e7f56063ea41a526f136744add5ccacb285eb798fd0f93": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5a6d46744f48e5c44502ed4f542b04ed7301450d86b42671e985c56c681982c2": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe68e084b6ef2ffae97e8f006a89c3e110672057b68e7469fc3b92391ca16a5d6": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa0e60eba71b4fed389dec744ebeb3647a4eaedd3f7a1ba31a9599eae59e21dac": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x21b7c64880f97fdd4fb0c206c7ba49eabc2c136a4d1de3ce2d973a3fc258c0a0": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8adacb22e278b7d7da71a24a58d0b80ef24f758e3cda777ad95f230009fbc5a8": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x05da68231fb361f230b3834ef590acc53537eef7af528143d486a132b0647974": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9572f6d739cc843a699cfa7cbbf934df7d4363faaedc97e1179ebf82b60b1cd2": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x89f89dc6941697ed262adc4ef4c9b12f0c97e81f022bf3bfc02833f8841491e6": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xae7ad8f728dbb7ad99188a124c1be6d8eebf6d91926f55d18e87400518ca6125": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2ee566785f17246ba26be7f0b757afdd2d45fe1c60fb446f86c35952bceb49dd": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x844db7b12c1e29dbd33a076ad3009b89b937ab9d177040dfd8d0e40511c5004c": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcd4104a27b71d14394ec2833b397aeb4ed5bf9960ccbf84eb9882a510dbad957": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x23c7c1a1b2e9c8e399c8fd1d596cd521882685d1b125674661b43fd1dd131ab0": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc3034da5475c862dc7d0625989ea081aa9748bd260df126aa09edde76f9079ad": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xaaec73bcf23117942a58762bf5688e2360b237d43c1710a0e27317f3823003ee": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf9358ccf1c6a99365610381c3dfed47e0435a053e25cbb4e72f1c5aec9bb7273": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd20e790ab3f00c3f596e975449049e92087c9d8f883c4c83518e42aea9ee5174": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4e01fbe1195c57ca7a7fd191fe766438150edcbc415a7512a5ea29fcccbf092b": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x85697d459fddae269521d151a3722d3c443a0ea4e09c89a84ee836383c6ae486": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb2b29929978d7c0accf9141c343d39d284a8730b75a902386ec56aadfb43722c": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xaae6329abe0d670462924064e4ff468cebe7e4756c074e882258156265bcb85c": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xceeab6c6c27cc0b30e36f252e0cc205974ed0f993fa21ddbce718f51b1976792": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa9732211cb61894b1a4d0fe0b75acaea3a2b812499231c68c7407e728955f7da": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x837bdf577505ca7c5ae788807b46064e7f217b74e7ae47b68b8ebc092993d1d9": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x228b92b4b4868a47a74d9891f4d1f4909005802b7410f2958e2e2568be3661b0": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc3d459905c7357f33925cc7304dcd9ae1c245a40f8949668115c9334cfa86a90": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf1b1e075acd2f75aa41f08e2d430b37ca3e6f268ee7c6293e69487091e3c96b9": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xbb1f94f43adcd7f6657987c614634c9dc530ca9e56e054b2575bc8aa93c3fe0e": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5dd2c43e551139abbdc92f840252581d8d4cfb14b3986f90a174e6ffda81a519": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x30f62e0055c542acc66344c5bb788b17242954b7a201d656a503dca6b4f50b65": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7457e3f8b6c2b5d93d00ce6bae9ca5d7c789a7cbae13290be4ad393d60cd2d83": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcdd4256fb2313c71bcc1af3f109a0afee90d1c9ab9668e0c0b3ed9fbcf15d2da": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe8198bf91d22b59e642f52d83413e3fb1ffeac2c103dd33ed2cca86d0f45ec66": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x41c7cd0decb198f1d4f9e3498aff8a1c6e18571fb1afffb5c975908dd7e7233d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb8a10ef6a58f4ee343eef7e0b80ac5e6c68d4c8f49d73068490668a1e73e414f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0af21bfb89b8b5d742e12912afb2e5be248411bd2447d5e1259643ca2dc72d72": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x350fc4c46f55770f24dfc1a3a1702495dcccec03f7a8dfa56dfc9d65407bce82": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0d4e724089ac55a742e832379d28dab31316feb10039502028982e70fd75f325": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xebac2b4c1789c4fcde0a8fdd6efc7130d38adc16c38c36b5b0ca309358af8aac": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x09aa8a918092cf6c8be1b884347413f8c80cfe0dad112cf4199ddeb70b1f4162": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x035a79a4a470b3d32d483b036791b1d7569d17ac075081af85b99653f0c219b8": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x361dd28952efbfa5bc28acd1053af9d6412591d42f11d8f51a806e09b6996b16": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf84ccacebbec5016ed1ded7dfe0e8e84675ed1f8f71d2abc937a5dd94e91cba3": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3c3a948ed53b3bf36b9c188ddcae8058cc45b659e6bc81a9d1a871263c27e3dd": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x014ae8625541802643fd0213a1c78365fe9dcec40b089f1d0ae7617a9c5dfad2": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x670dc4131863e391bef83be0324d23820c546a37ce533ba8debccf53d0590a7d": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7c57d105c793f860815a405e6f9bd17c0a102c36ca25f55244692619bd75ab72": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x38c29549c230c48a491817e2d97b713d05a514236b8de492f2a8eaacd36f809b": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa08938786cee9161e3dada34ef9b458238fe4a83ca86e68a2edfbc099716848b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8f33f3a38761f43f06a11bd9d6b9b819714c6891fc133383da1bc1dc75cc679b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa907990a8f44d0e4b4d7a84ec2e99caf4d2af942dcbd620617c70247f1b3985a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x89b2ee89bf746156345d064019604efb8b2bbf190c4e7840a6c3374899418bfb": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe35a43b01afe18d71718b6e84ddb8a6a70aa7e68e94388b9f5a524fb26c52cb6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7881bdc09d8a2f0f2dee575346ee1039969382721dc67f1474b42469ef4c1e3f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfb2931eab3fa4b1087fb193859cfc9254b81a6ff717e96f926dad0b8016940c2": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0ae9f3277d58803fe2c5bf3e564223404cafa624a1b9e5f15bddf4e6965bdb24": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcea0df8349ee810fe0880b226211c57d664cee79818e584bd90fda3f41ab9a88": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfe53d436769ef2a2904c7c90ce9dfd1404264744201b291fad6df8cc2370a44f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x548ee4aec225210b7359773895015ff5ee6b65128bc8d50f5e4810a0bda75a8f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8a2abe4ad60f7d22539f32e09ed50ee10f0c6a4f408785ddb81e40537e4b3da8": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdf67d748e06ab07b3beb48c4ed3907580c6f2a4db5c5b592003b0b295c86fc34": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7b078b2bbff5aefe91cac5bc95581a10ea8e099d54ca465c8e4b242ede53a461": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x23739307eac7c14f26c1ceeae75bc64a5d6d8d7addbfce7603d0830518e56fb1": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc676c9d944ab6d71b575741b6b298337d939f25d699db16843cb503407609d69": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf3574c014d78efeb7e2d9dd3270820c966788e0152ced33d9b2938ae21c7c028": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x20bdf9e65a4946d58995ddefc2186fb4ad7306b9a6364a8d45aba44ab9763803": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfc170bcc041c250548936c6c3bd1097a80405b92bc86a751a21f66a655ec16f3": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd61f900cd70c36a7320d55692a8fd36be0ac102759936348b1a85e18a0c5d1cb": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x44cc3c5735dc1950cde3e07714d668682a97effc9cfcb3041bff6477fe2d1ee1": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xbfb3e78bccac852ebc2fb2781e28610b2f5dccd33f8a88f290ef68eab52e2215": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x143de7d4a0321449741cb35f10ffd042419e438a47e56820e3dc75e5bd0dc3da": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf265f38298cd49ebeda064f3c22a53883085a59dd64d17c9f769a477568ce1b7": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfc255166f59367751a05d4ad602d5d59b26366b4b442e8e38df371dbbbaa202f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdfa955c5280c23d33bfd79aaa5beca6213fae00d6a1b7b73728add1432977a06": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x641b04c62038a5982226008a7271ab6f068d8890fe9b61c17b4b20270967d2e6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x13f1e5c040b9f80060039a040b8b4170d25c191a87dda8514389392208f7c0c7": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9341b9a9c4c00dd5d8161902018ecf3d1001ac6201e870181d7a7b16d5be4111": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6fc91b4d9b02c817c2a07f7db382c691e896d2b3b1f267501e9595b694c53588": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7ae88523789d760a9b0f9bdbadd7bb4b496cf381ebe8ba7258ede948dd254352": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2939efa77f16be8879b116deb7e5fbd7853d4ebfeab6c38475eec6424a5e5e0f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd798536fef707a5a258ce7dd9dc42711f7c86bbe30a4a3612a492fe6675b1aaf": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4b69778d89b2d314812b493ae1b59939cb6e376b4d1c1b8f8c9214483c93a38e": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x97b816921a375a93c7f8c859ff525e6650f852e9aaa23fd101d97084c6c012ab": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe0304219b1442ec6c9f253af35be8bbd77f68b01442187ce7665f18eedc396f0": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe540e05e84f83b4b2f6390fcf1a7b7d42ba7e41a2244d56c9b2b598d71355821": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x09e54030506b54ef5989ba8d27248a6cf5b1e0a9602489213d0ce732b9754282": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x572327f6ca869eee99257b5c31b003490371530aacd2f7be2c775cc8d850bc16": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xece5df2b89d461a215e7185988b4505582e65fd59b175a50b658b29453ec0625": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf5ac55d1496eed606715c41494ca96cc38104ba7b1b979a404e9810cf9071174": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7e70e4b184abfad8065afe2a345384cf34076f228f1d4e3c3ad5f93fb8d43ffc": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x17156988d9252a3bc9120630dbc7aef255fa2482055d3ba1bc96e2d485d2c390": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6914910d380b189811b49be0b7f5b336c037fa8c8a29e867023ffeefb05bcd02": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7f76c81e886e3af44d4f8dfff3b71777809647574e58a0c0c40f670b4058c38c": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa7afbc8aa0158a6616cb180ccf93de8836436fa8ba931b4249b6e0078efb3027": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa8d0d8406829bf6172ea21f713535819234a6965d1e59d1e9e76dcf46f9033af": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x35a9bd41a0af980bc1c65cf3d291af0b917101d674cea11735a5cb84d56965ef": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x57ce0feea6284eb55d08cbf56e5bd8b1cf3c004a38eb07f75490bc372d5a3171": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x68f21333bc6d8c3a01caac4e1545573aaebccad081505b86ef127cae5d5c5afb": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf94f233c40f525da7d4aac83e41a7ff888fcae8b1bcbf38a1ecb3cb4efe91425": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x00541a3d1f8ba2a6e9b49d4cb5b74a675edbbff34ec950c16071370b865ba18e": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x04b78a92a1327eb094ddf6744c55d168e688e9fee8a41aac82f6ee3550226144": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1ea8ce47ff92d0553a2362a6127b4f9f2b5afbffbf569b360878c791f2fc20f2": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x15e74603315e7b6f3c97bf15a7ba63b7479334633ec70a805ccd930f48aeda2f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x93e2f0bf18218f3b6c37926ee298d304089ab8a32f7df3a63e27a99a1016e0ae": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x698586cb8e33b05d9f6e76ab39cb44ecc11164fc7537fcb06811898d0f6717c0": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4dcb5068b99a17ae5ffe0e5f1d7d5dcb2c4cb8169677ecfd291e71b0187159a4": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8dd1d8073562475d6e42da75c9c660d6117f903762ce3360cd6c60b373d42efc": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x08baa6b533b27e1d67195d0aa0448a3dee6352c9abbba8614526e25627eaac68": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3795cd0b6a87e4e11b0a4c098a2638b916052e46a97ef5d360871d8e35024a0e": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x630589608447d52e62cc1720d4eaa13220e9c5419b3cc08c586db8cabcfc1b66": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x33508eb23ce8236a6bfa6c8f9c8e5438641011863654bca21ab3a7eb13dfa226": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x41d26a28e70f9e0a5b04aa6b05bdccb6ca0ef2b02cba398a761aa3c10b15c2e8": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa6f50296103dec3393e18d4a960ef87e7f77678074ebb488e56af8be92a583c0": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5d3db067701697686004b71b1914c665a05a972d400693b050895d12d258436a": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6649faf10303ee33a7fe693b50d07cd412a33e27486e5879fee761b1fe54e98e": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb1aeda212c01d1691742389df92821b02da6188324bb26171f23c41c2c2e3fb6": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc7eb495a17212c500ec5f87162437036ee04e404f48ecbc46fba7fcc3ad5b0f2": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x333451515e69cbf88639a0c5b211bc9f993df9ff8eff26db1d2e9103cbd7ff40": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x93b0a74c6f18fec6c24957b50bdff4c74df3e174f7b5d08d8e6b8b92de4cf5d8": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd4dc07ceb36453fb1379160d40fcb713815fffe2f6159af20beae71bc1097535": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x73a3873e6ba2579e8e0b9ec02ea8a34c7db37ab92567bfb642ed3f8b91059d25": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xea3be548e0b2d6d826871cfd353cb5450b1d58c50ee41e3d1ee5b05f1be6ad80": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdf7fb6b7b6912dbc6eeebf01e7646e3cf64b8089035d42239264a5fefcff9f46": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x894cd0691379fa66e5ecca60e776165816fa32bd1378aaf38823fb6dc08d5e46": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x04a2584df8ef98ac10704413a2b5d2ed8cab736d2fd6e260beff6229167f5bd6": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfce0cc7154d28b65a30201a727cc778be04b9504d636323cae8b6b82c6d27ac8": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc66e5d32c0d3be9740a5dd5ac12b40294d0d150e2aba48965c2ea9d7cf3b5ff9": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdc8053380ec7a30e61030fcc0397eb213b0aacd450b5f0003d5f9b3f34a7e487": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf823313fa4a3915ed508c16376520b4d3cc5a8b734579ccedbb23cd390fef377": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2dfe5d05e4b27ab0e5183daa0fd9f229f8d39f43b74f5c28274477ee5319d7f4": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7831bc7fddfa64744bb1a84b8450197fd0b8479bcf096897b975697b760c85a5": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb5fa85b48f0c73434a3fa4196f07515467effce55f6f70902431a042ad71990b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6964b7d259ab9fbff4badd869dae2e00e11ca42902e3240d9bc827d6db54bc31": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x22a7459dcf2d889384178561bad4f469a1f35d7eb03286c4672f52eb7c1de6e1": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6becf41f142c6f39d02e032ac5d3a2f1adc914ab46a1a84d469855eb04e0e915": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x638ddb610ff44da503e8cc6d812eee67d18ed957e979d44744c7aee93f97562b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6956e9223bcf7cc9eda0bffbe3000b9871853641c1851bbb663a0fe1520f34b0": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1f97e33bd097f5c68a4aa6a75005ab56e2df8b7b0994e226f1150c922fb5e676": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe745720ca05c89c330178111b843383e95c7db1018630a13e55a9dfafb0f3d74": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5d23117e303491f62bd8af21613813b7963b65fb7a2f3b8540972d2a42cd9ff1": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1b0111f5b1dd6d8bd251a7c44b9ed7c769307e779e9ffda355d126c4395031a0": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb734a2af9ec789dcaf088acf2b7726c9f2ec5954131a71c9ca595ed90761944d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1ce5c7e27d4ee7efb7a41499513ab9c62cfbde39312607959d9619594754b5c6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x912f49c095a7c2e7c82dcedbb8abf48d4d54401f5c8aef3dadd97759a5b8c0b0": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc117bf08461aef0b8692047a4abdd9df2cf70294d2bae44bac2182de54e3dbf6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xac989a731707c254f6e92a5ddf88bbefedd631a3d86955d8319c134c50b73a52": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc023e37682ad9bd3b0698e72938226d99b07aa020e3f8d0b877db2bee3a9b476": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x63f862907e12df0834009d8739aced3daf83c569f272c4ff283da8308e3b534a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7ffd99dd3e4608287f435114c25fa1fe0133d712543fd8b7aa143e1e6b6a3342": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4661b55ae427259cbf34888b1a4eadef9483116790e68524c1fb2b0820e8a1b1": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1eeb8ee6fd7f527c2e4c077ee4b6bca669a0f4056e6763df8b20b7d8a8d50c18": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xde256e7b403287d6b669bab9d74872401fd219ffa43c875a5fc97460950f9a50": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x353c181fefb05cb09fa493024a4e743d0006f2dc4cb3ab84fd379e58468fdccd": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x90593a0f847049beff6a5446f8eea59bd61f934e4810a894a267738dd1664a0d": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x47f452ec4c5c29214e45b582645ad303e5447e770fc9f603647b7bb89c8e8b4a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x290bda03d57fe22d44ce5c98c9a4a9eb1f631dcf60ab602835f28107aaee4800": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe97c30cd00231f4febdf4d1a6816b1b538af1ca4b7b2a036caa15509303cafdd": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8dc545aec309e485e6578985a61978b809ff3e416eeb83595df7d159951355e2": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3fce4dfcde0e5ebcbde7c4332fdb35ef46a0033d892579dcabfcc6606124511c": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8544d57f65c4b820b3ee718dff948e2a1724a875f46c53c8492e657de926bed5": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9911211c532aa4687b140a4b08ccf65da3a81dc35fdf73d828cc9f7306bdc1c3": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6e690538587620b322847faf21dd54fe790b31a6e2f66c35318f394fd4a2b1eb": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7692bf252d7466d36cd96eba591c8740aa18e4f722af00b317295f34092dc3bb": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf556f57e488ec25de3e523762cba42a28295120e20a0da4bd38ac5d0b872be00": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xddc7b9a07e4cced755bdb2f390df23819f1713ae62462a0233280be43aa7ffcc": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1843e2563dc900baf8566dcebb82b165d1f7e43ea7f605684a619c8e15769419": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x257c9d7cf168df85f5ac1cb44f73f34afa412790cd19bdf438fc0bf067e09e6d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3b907a49789a4400d766daf726800c2e299410721c333ea6d52aff29a9fdee6d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa512240b9a116f6369bf64e3c50667e6ebca9c6feda2428338db3268fcf0c85d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x570460243f2153d7c79610d43768bf21cabd3a707cc2504fb37bd342459911c8": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x370265839c05f6ca099dc5a43ca7fd184775ae6326e3b61514355e275741dc64": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd86f96274b3e9bc3252127f6872fbe05c6fbbb7e7bde04b58f57b03dc72dd806": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x23fd664ebe07a2529013616eb6066bf4e4acabfd658554d3914f7d66dae1c4f5": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf0cdcf59fd7767475a1b0eab53bbfdbbf8e757ffac454abd96c45a901cdfa4a7": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x53702b241996971a8b4ee5dbb08d03f41ad91e0ab1a5574c759750b4fb6c8cb9": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6765425a43f3767c4d3f2bc00f42c21e3ef9297068722ff83f7783da387c980f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7f87be685f96cbc0815a807b7bd1a02984f2aae9e86c25870beee5adc9781c07": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc9747b3e648ef50170f95ac4a59044ea2f35b673f6a46775bb7b19c7cf5a3551": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5bfafb2f7feed05dcd76054a8636921cc10772a3ac092704a2590e924a2dcacf": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xbe176ec175790132808f1db67158c1ac755a150582c037e5543f6433501655fc": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xebac64339f240cf49205980fc0a733c567858517852230077da51c4503d1ed31": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x569d10f44a01cfc72a8f2f3d6b19417781160994b226c8008ae1ef2193e3a3f2": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x12d2a21e9cd887625df3adf48c8c7803f017b1db1f1678930a899c7f661c6cd0": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe04141660663a4d47a0728f202f0c0dc6ceaf314e30ee24311a9609263d8d4bf": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcd67000de32ca2ce15d84befa6a96a5ca17c91646f4759822ed0d61dffff66e8": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe555bb055ba1dbb33695668ee993b00429d9c475859e8b3213069bc70d771c65": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x018320dec87ef35919ae2f454b372f82e22721eb3c7a18b8dfc3d99dd4bf3069": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe34983f87cea46d920fbc52fc6dc3d0a2b2ef733094d20caf16210241ad7af38": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa56805fa481bf77b78addf14232bc1af8cbdaa16fc4038243c5cb25b7f2b73cd": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x139e5f958e5878d8d8fdc3203589dc181b755de6d4abcb25e7fe04153a93e2d3": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xebfef5bf2447149430659db8cdd732e3316e1affcb89c55af77738632addd623": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3f029cb695f3efc61d3aef2aa170a88ff51704fde1eea54921687ba3eb6977d6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x20057d33dbfbbd0f56180a4e31a5e608b9dc3f2ddba49b3b1bb305f62f9d9af7": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x04406bba3eaa527ee5b1e1bca7ea446bb5381ed92da56be1e430e2cae3b51d2b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8e228c5dbbb5c9ba25d6a09a40bc8e9d9acfd42ec1a407e3c8087a9f7b401c96": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7ed1baf31150bc5f0595d067bb851f1dea4a0b5245130e946e26a8655213c84a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3e58d2313fc9b660de0688c742a89dcec29ad267081d65f8d3ccdc42d47d2cdf": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa488efbd952c3bb104dcb950cf82ddfb02e2353f7f9dba44e904ffa71227b2cd": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0411a30617de3b92df97705a50ed274164ff770b510cf3fda7f65a3925a51025": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa42a5d702200ab69b62f53b9ed09719582ca2f9bc74aed310a4a92350682b140": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb13408095b9a0c0a642b5280bfee927da302d36d989b28de22564053f49a7442": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x83076b3bc2ab90d573b7dfb51f97cdd39753365b9956eb7123acad5ac2917c9b": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa7ca1116ad5fe90bda15173f77c6cfc31899d784dcb971f7aabb26f8642a2692": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x05e29fa3cc35bb26e04d5de05104410e8f3a905bdf80eb02b563e0a795b69111": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4ac5dcdfbe5949f24a48edef96ea1ac1ee634c8c0ea7a05f5d341c05ce6f0c9c": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6eb71a747266f77b9e34a33d6823b28134074373e542566fa0ae44a621398194": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa312a6663993746167abe880d6ee6a4af41cb2656a092006383be967114c2fa6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc2f1574afecae51fba8b0f8ad0ce68df1511d712827d0a29bbbd26fa3be0b737": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x17aa8c4f2fb56db99b69e7f8a3763c770f3ee50858d6764ae3a3a539a9aa7e36": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5175b3a536e2f24052ebc929b8782e8147c462070e01c1e6f3080edc7c02655a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8a7b52e33a710a87d6a012240d6afd8cb2ded279fefea79314cd6abed3c0ff7f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa2b723aea39be89da18a5642e5e14d0998431e02ed88edc9ee95f4b2c9d90876": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfeda2b4bfe6f3e93d7ee60183aa33971a932ffe1ab0f67ed4fd39a4ea289ec00": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xace9934a20f0eda71936fcea7f9eb853ba12f97db88d9e096b87fd177e0f97f3": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x67d3f99f64d2fecb088a5cd2f452b00fdf60f2ff4fa16fb32fc78e30ac78b8e9": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5fe7e7e3d6ffcf253c4eb41d745df677102de0e5f7bfe6261cdd0fff1b25082e": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x866161f192798a61d64af4f20aa4790d329fb82922ee19b99c6a3cdec5d34557": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfbca97b30b214d7c2016f5176eb55c7c0637d437c31410accb2002f7c02e8993": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x30f14d46d2e49c5fdb1943d69a60988a8349680bba0e74be72b7bad9470ebc52": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2cb63353d05d1a982e90706c6d56bf14338bcdb6cc15d92d5d6e1f5a3699738b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa98298617fd9cf8211269bfb8ef73ec1186eec36b0441f2878cabd22107fd593": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd125f63246e4786d423314f9cd949c73cde15e291450490948b0180241a5b650": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x16cb4c264b9f43a17ea0fbd301aaefa8360acdd7d8f5164115bf62843fd2057c": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x881513280f7f3b3b19d8c0bd49cd5a734bd874647545724e415e4edd756411d4": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1664bc89d93abf203cee1e469294d2049358e3c311396b7ed1ae537d7aa4b4ac": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc9461d88303a6829ae12691f6f6a5e0832e62ae50576b0cf44626e9da1fc8976": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0e4b1c89f566eb3f837813b0eefee03c66c8b26a44b22c64a8cd68b91d2a740d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa5a8469098a48c9f473beab5d74f55ce6c9ccc82fbe594afb20b6a691974d3bf": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe205f86228e813585dd9751558fe7d700288e42da3d6de839d44f1776762e5f2": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9ed146be7ec79def9442b2a3720999f5909ba7c0d94fbb6fcd324bad5167155c": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x014f532886980c33867eb53329bbf247e7c67627edd5f01fc5a9e0ceae3eb6a1": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb97e9c69128925e9655da940ebf41e3fafc1eaacb84db5365a6e0eab3cc08ed7": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xbf14abaffb102b8c0205d917f64bf08ba59974cc560732c88155c82987ff1554": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa2ebd7b94f26c0ba4ac0dd98d1bdb678405e0e4ed4349dabc3f5373d28369a24": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf5fbe7edd74b7b3d53975a4e1a3d3c9925e1eabc993415cdc7b6535b71479e62": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x360891b8a8515daa0d303f14904b04ff6e068f5eb44331a7cdfe8d07619e954e": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x72be9e166d084598db23b6f23319eb6244e352548c27592eecedd8f539d1845b": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcca196555966163da1c7d60c15c28ec1094c5ec177ca27004e4fb72f3fa9b813": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x65eafb4101c149d69db107be8ef2ed47672edded92c1a5ff63724a81db5e902a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8f92a3b392cd4e419ebf02852646718e500eec4ea070f33f0773a022472fd9cc": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6c42beb92ee75a071fc0df11e6ca51b706911f32706586f5798dec79d1248964": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd22f5cd838798a66b646bdc8b96b3f34995e457c2e3c0ed25de87c32f5877315": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xecb716338b3ec4ebd72309becff056e29f6abf61962e31e0dee266556ac0955e": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8fcb590769d4d02a82b75f0216989b8dedc06d9a3c72b0ca8366cab7747dfdba": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2beab70faac9c99eac61618f21811eea102434bcb80e8a1cdb6d95830c7ba57f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdf8364adbb1b470ee31899751e32fbeaf7db103376f0b1198beb17df71a8c772": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe52f9585687e1f91476eb1d77c3d1ef83864b717cf2e6cca8d12d362c0abe089": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x987074b45c75364912e7045408b11bb490a6bcc85417ddd8c26064b4edb9c680": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xeee4176ad6253d9eeceb7f661301de364b8e47522cf3a2ae5117c734bf556357": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x816559ee9712ed1f5e5bcd385a22d94ab10aa1d6ad72302e7e7b802d7f764329": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd361e07b72c8d29331ccd4b8ed4ef2ef2ee695420f888bda13ff96d762aa4bc2": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdeb7417cc278c21783d01765f6fb2993710ae75223751349e095bb45d2a372d0": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4879063c6025f59bbe88d48e8b18f83c36176bd597cf0b6e26611c02a3138f94": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7a974fe84914001af80be9d886991af3f47ab426a0663faadb106db7bfdc9d0f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x286311bcabed60330343045c89661aa2170b2886f10bdfe9f760871b3c451604": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6cf4fda853a16020594fc1fa01ff56582da96ab691cbfbf5b0f0ae4d8d1d76e6": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x66cf96897876855d9d6959992f51b7f2c99ea6c0abf0b6b3c2ffff95e1a830b6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x181514d434fd040fa156850abebd4ac5ee8d6a768e39b1795f0d12b9401c1c92": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x56a465e3820b98d9798099d84e1c2dd430945ba36794db4714e00ab58f29fe8f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe98d088492ecb9abdbf194b697f5c21cfe99a9b99379d4e080226d2f8a135f9d": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa30a91bc41cb39e1035821857fbb027ca483fe65524ef8a427705547c6333f3c": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2a0cd914addfe2b31c395a00d3267065ffeaf607b1e1e6082a7d5ea27708217d": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3d931ac95bc7f39cc6837a415c2ccd9cef38a0b6d3e05cc7c762827aa12f271f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe48704d51122e2ba921c560c81b01c40c56060372f951e40239f43894bf77a1b": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe5fbb6a4f59882d8b907ec132c01f879d028c5a5743d42297d05268588ea77d0": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x83fbce3a71a079a1e9b0bb156596060e9169bc23f3973ff4dcf51238b1f2d0a5": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc6e254a56db1c4b5e8642dd9423bb2657a21b50005f7e9e33dc2a4566bc7bc0d": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x962e12ec37aea36d52dc5ae7e9df25411e892ed11a72e986ac9fab7fadacda2d": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x79e6bca118fe1fc3f5779027ba1611d75437c8997312e29a8520b41a91156dab": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc3fb406affcb717f6b88d9c9044cd75d3d02d0c022d4b2ed6e2ecb04f256d232": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfc960862c1c7b1cb88fd1d1d21b99df7c57ec963572c9e88008340ee1eee2ff3": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x85107d8ecab6ae41b022b721d8b13e4b3ca5063fd4313b054139c193798148a2": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3b6aa4e5fe5652d1b5423a62a40e8b1ad6d251e8fd4f3d0ea7f40fb7ddd3e0cf": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x81bea9725e53222a944da1f09c7b1ccf1c992bb47f12e59bc6b2e4f0719c1c4f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd45ef0c623c0ef9a3a66ff1057573437bd3619fde3178b0268c6f1b63c022165": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x857719af372ba319999532d14d80214f181debd8cc91aeb4355f78dd8f5ad32e": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa9249fcba0cf4d859b3c098772ba5975c9a6fd0554936d02e1fa2951cfd9530f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x06e64db0afb9db48d30f8093d7eab1e6d4e9a56c2e733b6f10ee780afbfc51db": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd984e558949fb8b51d0f64cc5b2078d2e47f735386bde02674239e232934e415": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x86eb56b53e80d2d8b9926d087b806b8ca572b7ca48bacca6f256253367f501e0": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x75925ac1d19e0301f3536cd1014962b6a7d54b80c84a2edc98c39409ceb6f604": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0423395a552708a8b4cc70dbfc57df9b5852821d830f48cc4f76475973194b31": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe6309d2f5ecb6c28233c59949a1301ea32a0688bf4e7bd62a8f4f299f53f101e": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0d0fdc9a0b2a876812fdd3cb62e0bccb2d043daeb5fd2c79abbd8f47294354af": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4216cac8830f923bbead8508c270e71db3aa3c40eed63384679ef980d9594b36": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4e8b83110c5dafe5380605b779c4602e7b757f5d65b23f28a4833534d9857ed1": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4823d32a8ae5de6a01c8b56783108a1dfc61fe7a0f2ce75c27365a8339e5b50e": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x56bebbcdf7630a7de32305ee648310ceeebed3d64688bbbeba785c0c85a6b944": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4459ab39792ea925f48cbef65eef32eb679fecba418b27c995de8d28c7efeff4": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xeb2c116fbc6e0f8a27022fa270d686ba9b9b9ac51dd6ded38794e5ce1861f2e6": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9f462991ae995ca6c35ad3e77577bbf58af6c92b834fb2208f4e2f67994bdf75": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x65cfb009d8bd6c4fd819f44031b48a5c7944fcef938ec342c5833d82f9b21867": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb4b8bd21f86c49496996597c07c19527d332c96527d4c439280dd227ae301b09": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9ea59b293bf4c480039b09fdcbf05b3a097c0cc01699fb92ca9a42f62ed8c18f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2a2e1a90c963be01a1f524df0a6476c11e831e3ed868e39d77c0b583271e11ee": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf18f4b2b4c501df5be810089a7c94c813a2ddc609359b912982e161b1713abc0": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0053d092f307acabdac1845a0bdc33d1347d874415d2beb06f453c2eefbfb0c0": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3f59cd48a7121c32fabf35f9e46ca5119af0504f3866ae15eb841d2b84ee7813": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xeb0cbcded9b82a406550de22d8e18facb2f084a0bf1da2904bb391aa651be242": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa4f21f2adae071e3823a378a1b0858f7c2d2bb40e2f154143453aeedfc239bd8": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xda4ab8b5a7e05d4f66a68ec954153f99cf7b6f31c220f954a38c61545940ca75": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6f9f0ff42fed977df6aae42066176745bc6f3af55a1499e7c4b4ab7f3f1da871": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x20c8d906939c8f08f4300637e1ade267ac47ff01c4e8b34ba098018c27149e92": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe6c04644634c56584adec5ec2068ccc2056d00f833a81461a08286e146800375": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcff9cac2b49ebb211137d7404d81ff9b2d2e8f1606e3ca67e5f8204e5c589a68": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8e0a144519e09dfa522eaf13fc18c88cfd494d9fdfc69cfa1698f622946af3fd": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd62818964620a2726f697313a9b526789a0f083aaa503c0bfca2fafb8c64875d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1ceaad0e485fbbf96a823d09f288b5f892c6e36008aaf3330a804579d9295e67": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1a59e611dc808ff785e30bec1375b3b97d5a8e34308c936109c88414a4476192": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1d1d7314f2c77dded2eb95e8efb9fb33fbb5a78a5daca2d88494e1c0ba41372d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8abfbac3c38949bf85d508fb2cb828f55a520743e1e610961ef4e7dc5f2ebc7e": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x79f3039b357ffe5a8375523175ea1046f20fc8fdcae58755d13741cd11d592b8": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1c93d0bf565cae9ca0a5c62dd214b826065f0719651f6e09c8024bd52e471159": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x80832cb2809c4cceffddb1cd91cb9336563c64814d39d58e9af8cee16a6691db": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9e934f97d10764e23abc4d0bd79922d95aa699e99efede09f3d1a1cb35b60623": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x77ace02896c3cbdd9d93cbdbf958c46c69b5ed48785d28d123f393603fd731aa": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x54f7cbae43e09f9d0e098c5ecac7def068c9ba51a9b7a5bda06e1a3ce6775093": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xefe92a9daeaa51005900006edff7143941c17bd5607804c3a0a929985fbfd574": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb3b3fb6d413e8b7318a01b57af6318e310d6233db3ba4e93c7ce76c3078ddad3": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x48428bfd9ccc3e99ceaa8b880011dc6c501963560aeb463cf8ba48568b6fc09e": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xbd967b7a65f77f45f05b7e2b6c7d0b46e5b01ebc0097e1ccd3a1281f9df30454": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x54cb6febadffc1b931bcfc5317235660382b3095c148b0fe0c538b4bc4aa41ac": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa1bb80b91cbaed6a602cca9f23667378ae21320bb9996eda9f231ab8ac462d65": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x931307c61664f43b1781418a8fdc85ff91b9b5dadb59b80f2a850e9a070707d1": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x830e367ad0aba91e203b0a2dd82fb4fb27c941cd444fa8a1ea15ba43418a2b80": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x942fa6c00fd121fda7749fa9e59c88edfe6bb4861a51dab9b70008e7f726e5af": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0cc65119bc79fc538279be28e7656bcae64aa65aed53c2f866db5bdebaa489d6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x616a052f2b8c878e4b3178eafd199c0bf81b67b12611342ddcaf9a0b584a582a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x498ed1d2461e3b74b3918434dff36924cd51ef27d2f2f1257d6549a71a077919": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc4a34448d312c82f81b08142a4dd707c9057d918a5fa5ad444fc03a22ed368c2": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd59f1c00e8356096dc649b21531abe5be48741c08bc195d6bae71429ffa2904d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc87e0475d145ccc4999e0f2e9a158bfc418c6955c0529f4842989263ffedda8e": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8c3cace64cb5af94d88bd4d42cbdcf915329e0e9af088434c65b177cc30c4fe7": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9091fddbb0d24b4410c94f56d2523584923ae81b63232a33d471620b96d0915f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1bf1c9bfed06a71ad10144164624eb97767561480f311dfa2176c46959cd06e0": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x560efda087c576fc89fa32198dcde54397c8439582adb55ceb58d3b5f1527255": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x741e8530abebe68049cd33919327bc2fa6cd849375a669dfb795cbe4b5e7ea16": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x35c15697db6623c5d7422cdfaa09b7fbb81aa54f8ec1144d002decda76cd1611": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x02c82dbac12ba01ba8d945e206cfa9b5775fa177e2b238282a3bfb954de5ddc3": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x624e382a5d093ffb7b47b151237b675e912b138814d94adea73a5cfc7d5b7187": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3bd7fec12457207253a2a174f4ec1a1c682b4435490039b801bc7c66f3d7c587": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcf540466aefd7407b3d0bb1eb74f4fbb8bc274be8e2eabdb185ec1c0d3deecaf": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0d1e9f89470505783bb17a15b47eb7d85e51f5c398d8d6c33c819bf9aa096112": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa1e73d2582edbcc39a946c3176a6291502f476810697434a7b8ea107e9ba7108": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x83c6b4574ba50cc28fed06484f5dc3dde428326f7846f78d662170728f5fd78f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7097f92944252c053c86ba3aa260aa5bb86a6cefa1ea912a86d21502305554dd": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa2b996fd7e6ffdd38ce66a96386a49c8cda6abd803317500040d5ef56a7c633d": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf8a9ce081fbaa70dc1bea15d02fd2c813a144a3529a548c9f4855b220126c768": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xec56f1fe26296d444cd94f4e06aae7ca5f48a47204b5b59e8e4cc15e74d01bc1": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd25041185f3656a6f6af20d03e4f7c1b834f48259492dd427ba109d4b2c66c5a": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8f3a3ec418ff0e197b5647836fdf5ecded372785b5ff652c6d263de57abc765f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x450db1113d2e25b7178c235692c6a612722b26be15795faaf757418e5e71fa6b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6a140a6a24e1218d809bfcd9f76bf88fba971007faefa68036635a184b748575": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd9705ab9f34b33e231ab6671ef5eb20d6b279bad089ba5fd8205fb3b0aea10d0": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xba86966284cbf3ac7bb327a572d38bc626ac37d31697f1c255d779c402a6c8a4": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe8a320bd784d46dfaebf892c7235b833e5a01e10b8fd8b5ad217f239591306fe": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0640c2873b42bbb7c07b05c4a52bc7860ecce9ccc2c722a11d644f49f01e393c": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x01986532b4aec7d7cd533157a6bc0158687127d19d4b7822ac226f2c629a61dd": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x165d7261c857dbe7109d41f67936f146f9a5be1abc146facc91745e3b4227038": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x59874f3c37e14784eb37e0942b17cf829283aede8c334790049dca2c3deb996b": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9d7453ff07b37fc05148bca60fa7f0606018bd422362374c78827082e2f27f10": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb094b0e933895089af85a4978bbfe61c5df80991230c58b42046e4d83a4ce325": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf1e5bcb4c34dbb02af0cae2c1723a1dd0cf373c2b01679584ab2b623aabea553": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x54bf91680721a89cf223c14b4757d58ce2c502cab489f87727922485b83349b6": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8648032a06797e0ef4103645a97ae0436f9bd51c2060ec442542eaca7dd8cfab": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfc71072ebb950d6cb5c40b2141c598053be718edda4abd3f9cf80ca6781bf882": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x16c9adff84e1c9500ae7f5b59e82813121b7d7377c939a3a2bf0b4753faf835b": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x95e05620b1dd2b57fb5f192a8ae837d76ca53bd1c446a318ceaea3ac9ebccd3e": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6131d1551975c7e4b30f1bc720f0c63661131c8b9fc4abed0d4b904c86a47010": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5d9729950b1b89c267faeb624166fde14ed7662e6e3076fe6998a3ed53f9292f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd3474a7ecc3685b26cc5b32090309ee79708ca50d638bb7f5c8e157471269cac": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x24e7c48bd5565a189707968171491db55e7e5cb7a046322b5a4e4e270180a05e": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x785789a726e2a6f666d7fb0cef233252a65614ea64bf7378d656ac745eba94b4": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2dd8b5070a6a3cdb7dfb810b67145610b52d6004d2338ff7c0def66e7d2b73e7": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc283c296975e68e06ad1e4b81976c68a3fd378d9732108cc016b098ad765d266": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2df16be3e21077bb6d1c99fd7513d98681266257ed5f9aaa057931a047ea9727": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5f3356a59da9e74ae0f71fb0face2c5c43c6321fd34954829a56538674ce8d0a": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4b25719d1d5d5da4e4f9bb6166c4ee5f55f8fa37d4496a3eb8f78ac76bc9f612": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb54f46644ab29633c61f227ce1a0a1ab2d17237a49585cb4f0bd8eb82a2618a6": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x82c81f9adc710e754a425594d0bc9c0ed03baf8353b8fd9f516578acd09975f1": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8d8ee96453f1cb59c2ddf88eec21d2faf7f72947e8deb36fd5df51376c1a1a26": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x619b87dae8dd189ac0f3eb268d53e4d6f99ccef58efad4cb62667d1bc8125a34": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xeab93827cecb1e6d8f0ea0e55d37161f0e705d0359bd549c9a9a8972a4fed509": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x404c8dc7365d8d77cad320b682f0aac8494fa3563ef45d5e2383656af7a5b95f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x57f9cc3caa0d804e4f40364ee42bdd547642e5f1716af137b1b8bdf14dcf8473": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc03900f5a755543ade9666b0d8db91324ed86b3cb05bfbf7bd299f7417b87334": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0795e71d7bf6a4ad5b81f451ec70af66fe47539a8035a799da16715d4f3701bc": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf3ff50bb8418c9d83134e21694283b2ba0e9853968337e021a971a8d172db9ae": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x699dde4890a5dc86fc0543c0c8b293b5587f08a0eb3ff93cb8492c13febcf2e7": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7632c8e44a12406a38b7095c708be03cf5afc559bf6451fceb6a34cb70681a32": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7bc150321aa4682d07dadc9c0f5697d2b381d452765896a647173266fe79d604": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x586db3b91ae2946a6733777187654b37d435238ebdeb719f72e2c65fc5b81acb": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x94ce7bd57a6f9e2f2d73b63182d39b66b78b7bd994407b9fe786b72cd31c8b28": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7f54c5524d77d059a2b26ec296e74d58af31c79451347fbadb37f686f68bbbc6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xac23743211a40a137df4202febd43cf913c313b922a34797bd54290298cb2db0": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc984d53e704f140d5e85b8dd4fc1a7ad2a2f23d8243c8bad6caa3c13fe0e2bbe": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x16273640fc6e6c4def95c51a16bb1550a435f13d41ad6101855a225c5e51138a": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x481c75c63b72f5161693b737dcb581ebe14a4ec8d129f1cf0b15df577351153a": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4a40ae815999bbd4ca994ad7d6d8ddb2d3f8ccba3f3d90d84bc246f8638a47fb": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4283f9d3882774c126f45efe7cacabbdda3137e5125015f7fbb8fe55195b7183": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xaa3665e6415be904b011c4168ff6bc210794416303598262c824074b2a44d086": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xbaab16b87806a10999effa9cd754f035475b50f8d5f1859e7db33d83d9ee93a4": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc97fca12aadd36b7258b24f07114fc5328963cac9d586215cb115b97a9acb277": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x523233604e889ade938e2e629e6b01878283709329714093c7553c54ff7c6252": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6c91e55a54299c2879252380c694636ad117d7b41f6b919294f08eeaacd560c2": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x93a1e1e9f565a5cea83853dfb28e5e65f4f595882b302d6a84df9c5812941285": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcd94d5058d1936701584d5f556ff6a7495b37d3ae5cb0784a9ff0074e58ab331": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4b02f725f037fdc29f0cf181ce58219b0619933a205bda4757bf40d629af8737": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf049243074034e3d02f7573d0a4c7beb2646739f81754a04241c94ee1ceafc68": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x092122b234d819d81f4b9691b2a2b14a4ce834a26079b3daf61c6e5627565ded": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe89ded7c6aeb064810b810627844c8088eee5cb1bb120756c9e383bd093e43e6": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8ec841616aba57bc37568891ab47628b690409bc0915884af5796f95cf17ec63": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfb520a9d37827a41b5bdd21588d79bb407bdda05e80b834d688ac28d53dcc964": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x56d0adc3e4a81ec286466cc6ad08976bcfc9599669010275c4cf2c6b02e18860": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x49ce73ff1d197ebbb0387ad5a82780984567dd3b269c6475e81988009922c5ed": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x20d821fe2752fefc90c9a659a4bf623f5bbc66ef144a0253be4911ed0b015678": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa62079f9fb5084b18c2be6403fdc05726d3ef68b9e6ab6976922b18c7adeee01": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8091389ee234cbefc3bf0a4c8cce5fd820f77eb586f300560d135b9804b5d055": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3425acd106ef5f78d9416f0c47940ea70d9aa383aa33d8ee3d13c4eac3126b38": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe78597998a8ffea3e4995a199bb971ef1247746547eeea58f91819dd77ae1c4f": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x73d98f4b07f63a65c229fc87f7f21c7576c4f9903890321471df838e2b74bf1b": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0f27686101cbe22c79f6c313251e4680866a752d123215d9838374168e3344bd": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcf762a8f4502cbeb4ab79626cc5a7c65c6dde5b487c8fa9b58f421e10e4807e8": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x24e276cfc0cbd280a71da775ae35da39a107b97f819a3b2cd7cb40e9cc3afb82": [
+        {
+            "func": "withdraw(shares,to,from)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x69272d8c84d67d1da2f6425b339192fa472898dce936f24818fda415c1c1ff3f": [
+        {
+            "func": "deposit(visrDeposit,from,to)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ]
+}

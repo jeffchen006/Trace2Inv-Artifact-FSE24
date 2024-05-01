@@ -1,0 +1,20 @@
+
+## badges
+We are applying for three badges:
+- Available
+- Functional	
+- Reusable
+
+
+## Justification
+1. We have made our artifact available on GitHub, and a stable version of the artifact is available on Docker Hub. 
+
+2. We have provided both the dependencies for running our tools (via Docker) and documentation (in this repository).
+
+3. We have setup the artifact to run our experiments and to produce results in an easily understandable and re-usable form.
+
+4. We have included all of our original experimental data which could be checked by reviewers.
+
+
+
+

@@ -1,0 +1,24 @@
+*/__pycache__/*
+crawlPackage/__pycache__/*
+fetchPackage/__pycache__/*
+
+# Ignore version control directories
+.git/
+.gitignore
+
+
+Benchmarks_Traces/*/Txs
+*.pyc
+.vscode/
+
+# Ignore all in cache except specific directories
+cache/*
+!cache/*_SplitedTraceTree/
+
+data/*
+!data/accesslistTable.pkl
+!data/executionTable.pkl
+
+
+# sudo docker build -t trace2inv .
+# sudo docker run -it trace2inv bash

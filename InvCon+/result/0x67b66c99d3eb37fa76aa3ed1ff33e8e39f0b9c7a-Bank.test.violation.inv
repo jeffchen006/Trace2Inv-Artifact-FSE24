@@ -1,0 +1,1605 @@
+{
+    "0xf9be1b8baec4622c21dd77d2261782e8e976f12387e9745e3ae5dc25b9e03a4d": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xae003ab511dc5741a13b99d9066a661edf24a01664d5dae47afcd723aab13016": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9eeecfa6de9bd659d931a82330c214e58ac4b480f9cab1372b9a280126745796": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x51e93a29eb4cbd86bfdd65868ecd348977046c2b071ef91610ed20447d4ea226": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x58c54965f849cf731f4250f8d3f5e5bb4c04b665272587c01ddd449e20a1ce4d": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfe91c45df60f770d4da58c72bf84e2eca7a77075bdb31423b9cdceb9b66d5fc7": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe78906e657f1214e25852238b1bcb45d83e2adf7a40266c37d6f0fb1aba92576": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4bc6b4c27d37f83b6695f7b57396af2edcc6c62589adcdbbf981046a0c9429b6": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6b622ef48a7c5eed327d192741fe985c96d082f6311b56b61a700c051391e8cc": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x679196ef17e49ab4f9c4976a62d39d48cbf15770d56adf53e553749fe17cecf9": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6ba14074df504c54652e25613cb6c6cd1d426b47d9c0019888f388867880a136": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x41506dee8090350cdb33bc349e0abb9f61259cd621e890e2642acc206601ad22": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9581f8ac472783cbc4deeb4276c91fcb0fa72dd013413fb59e2ae2a0465a8461": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xbee13b83bd560c2f17aa69decda446f09fb316d469108f7d8d2652e756b95135": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5b99586d1732a4f0f9a246933bf61755dafb4dca2a184d5d58fb89e2a83ee9d5": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2f2dc351bb6f5fed59202dfac2b0c3b41cf2bc8abb0d4375a041dd7b5bde836e": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe1e18b9dcbf4af2bc69c906c1780490d690d3e2058ea473959e6036a7f845873": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x727833c770b831575ae5f200d1ad1170dcabe2e184460f0c59bde8bf4e9d8a4a": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xecae6ecbfed2c00c0e2cc012e8a713fc0da3faf4eb36e378a56ab5d604cbd0c6": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0",
+                "_balances[msg.sender] == 0",
+                "ori(_balances[msg.sender]) == share",
+                "ori(_balances[msg.sender]) <= share",
+                "ori(reservePool) >= _balances[msg.sender]",
+                "ori(reservePool) > _balances[msg.sender]",
+                "ori(_guardCounter) >= _balances[msg.sender]",
+                "ori(_guardCounter) > _balances[msg.sender]",
+                "ori(decimals) >= _balances[msg.sender]",
+                "ori(decimals) > _balances[msg.sender]",
+                "reservePool >= _balances[msg.sender]",
+                "reservePool > _balances[msg.sender]",
+                "share > _balances[msg.sender]",
+                "share != _balances[msg.sender]",
+                "_balances[msg.sender] <= ori(lastAccrueTime)",
+                "_balances[msg.sender] < ori(lastAccrueTime)",
+                "_balances[msg.sender] <= lastAccrueTime",
+                "_balances[msg.sender] < lastAccrueTime",
+                "_balances[msg.sender] <= _guardCounter",
+                "_balances[msg.sender] < _guardCounter",
+                "_balances[msg.sender] <= nextPositionID",
+                "_balances[msg.sender] < nextPositionID",
+                "_balances[msg.sender] <= ori(nextPositionID)",
+                "_balances[msg.sender] < ori(nextPositionID)",
+                "_balances[msg.sender] == msg.value",
+                "_balances[msg.sender] <= msg.value",
+                "_balances[msg.sender] <= decimals",
+                "_balances[msg.sender] < decimals",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "0x31310e8232550886afbd5af527ba8abdeb260b98d0d80d5bd7d4e0b198f9b36d": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6e186fb81de7135784e8445ebc73c0f0a39cb005b0f6c135271f822b2a95717f": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x19d8e2666cd31832203651dcd8eb31b054e144895929fa3ede88fa7ea7944d37": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8dd832c4970ed9970bf9709907f99047595a694c80d2e06241bce8cbabac3e40": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x881d8018e853f594886809b40ccd3243761e4c75b074585b45e117cdd4f0d0af": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3a5cdc8b1f5a017f9b4079d0d11fedd76fa03b7a8a4181a1d0d7b156c47ddc64": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0",
+                "_balances[msg.sender] == 0",
+                "ori(_balances[msg.sender]) == share",
+                "ori(_balances[msg.sender]) <= share",
+                "ori(reservePool) >= _balances[msg.sender]",
+                "ori(reservePool) > _balances[msg.sender]",
+                "ori(_guardCounter) >= _balances[msg.sender]",
+                "ori(_guardCounter) > _balances[msg.sender]",
+                "ori(decimals) >= _balances[msg.sender]",
+                "ori(decimals) > _balances[msg.sender]",
+                "reservePool >= _balances[msg.sender]",
+                "reservePool > _balances[msg.sender]",
+                "_balances[msg.sender] <= ori(lastAccrueTime)",
+                "_balances[msg.sender] < ori(lastAccrueTime)",
+                "_balances[msg.sender] <= lastAccrueTime",
+                "_balances[msg.sender] < lastAccrueTime",
+                "_balances[msg.sender] <= _guardCounter",
+                "_balances[msg.sender] < _guardCounter",
+                "_balances[msg.sender] <= nextPositionID",
+                "_balances[msg.sender] < nextPositionID",
+                "_balances[msg.sender] <= ori(nextPositionID)",
+                "_balances[msg.sender] < ori(nextPositionID)",
+                "_balances[msg.sender] == msg.value",
+                "_balances[msg.sender] <= msg.value",
+                "_balances[msg.sender] <= decimals",
+                "_balances[msg.sender] < decimals",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "0xd6634c24b73b9e28eadd879b1458714e6d7cf2099c239fe633134fc8568d17e2": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1bc6e30d32d7df0002d819a7bdf43ac4d97bc74da08730d85c091a64b97ffa13": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x569b6cce0a84f0cc1fd8fa506bcaa5a559109b2ce0e285a4e1657ab69ce0d36a": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9c7384f847c8e311f8eb530b20e0536d8610750ca6b78194806c8581ac430228": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb5424641f9e68fd72e6688c602f1a2caad77758e61e45ad0b9f8c303a3e8f1b2": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0",
+                "_balances[msg.sender] == 0",
+                "ori(_balances[msg.sender]) == share",
+                "ori(_balances[msg.sender]) <= share",
+                "ori(reservePool) >= _balances[msg.sender]",
+                "ori(reservePool) > _balances[msg.sender]",
+                "ori(_guardCounter) >= _balances[msg.sender]",
+                "ori(_guardCounter) > _balances[msg.sender]",
+                "ori(decimals) >= _balances[msg.sender]",
+                "ori(decimals) > _balances[msg.sender]",
+                "reservePool >= _balances[msg.sender]",
+                "reservePool > _balances[msg.sender]",
+                "share >= _balances[msg.sender]",
+                "share > _balances[msg.sender]",
+                "_balances[msg.sender] <= ori(lastAccrueTime)",
+                "_balances[msg.sender] < ori(lastAccrueTime)",
+                "_balances[msg.sender] <= lastAccrueTime",
+                "_balances[msg.sender] < lastAccrueTime",
+                "_balances[msg.sender] <= _guardCounter",
+                "_balances[msg.sender] < _guardCounter",
+                "_balances[msg.sender] <= nextPositionID",
+                "_balances[msg.sender] < nextPositionID",
+                "_balances[msg.sender] <= ori(nextPositionID)",
+                "_balances[msg.sender] < ori(nextPositionID)",
+                "_balances[msg.sender] == msg.value",
+                "_balances[msg.sender] <= msg.value",
+                "_balances[msg.sender] <= decimals",
+                "_balances[msg.sender] < decimals",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "0xfa76d859fcec735789cb6b6c4de8bf61b8644b0458eb942c06192bcf0b9cee3e": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf3d95fbd294f3a8b3480fea6833296927d5972dbe73206f18477920707526d6c": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x93fb13632b5397a4fe26c0423af8b7de0e4bafde35d8012e5cf7a1dc534bc5b6": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe6c9977e0b2141e2aa736e22005657c63e323c09124025080ba76012f2805afe": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfc13257b0f61f4ea1727dbb8a924a94fe7387dff3e2dc97accae3141cd3271eb": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x86cd3d59cde2766312c0c5e23bc9a344d12f33e2c21b3ac7b14f0a882ed8951b": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x3e54e7ec3f594101e9ce980fb90b3d9d38241ae433c396c12ad8ed1eca03306f": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x92234a17a278af90545e9e5f519adbdda60afb7f6c796b60f38683d5574b80d2": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0b4f60ee8eb8b3c957cd2bf8b9d5256648e458e0045a65fd43b3905fecaa1c32": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x90132cf8c1e699bd54aaa1527fba6ab27daad2f7471e9897800069aed92e87ab": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1cb4ba46eeb50e7d71478d7763a350135c452f6529d4d61ea27e1402369c4d7e": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x64a63b89f678e0d17c888f38462d3f56cd2185f86d90cbd7f977a7ed8fa9da5f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa57500ef885c4da58cf60590a961de65e6315a4ed69bedeeb2eb6921d11a58ea": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8c7c7a3ac05326bbc4d427e48f31b3e585e13a02e20d02e68ce8c76503ee0f64": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x9ced1501cc1dcf3110da26d007c3bbfe19fc1bad6dca2161ac0be8413cab75f5": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xee1af450a2f6045e2a420248b8c28843a83c91342d4b990065f7d62d629d13d7": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x40ec80a5395056c9af706342c488b489b67dec08d2cba3d0bd8d1e3b2f1da328": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd3c4c6dc7f5157bf68662c3bb79fe63f993d9657b1a2f52133c083815140f4be": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdb874e31ff8bc1b0b0c6ab3525d5be0d838911e7e279044982fd1268fd6a0515": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7be6ee79fe05513a77426b0fa7afcd1f29e4072990bd11a41397277d43c67d17": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x931e8888ad8ffcf8febd6e6e43baa64b112e5b701b4bba1094dc2c0e3f921732": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfd5a511c53d6db2a7908ab57cd25be54d96b75c159b2d1d2d5759761f0034082": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x94e2d758e09a56b8d6067c0a259c37a4a94dd152a93c7a2d6f2107f6bcac5f91": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6d66029857b33d40f9250f5f16af9a8cfba47582dddbf7480382ffd76e3afef0": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x00209adda9e96041750e8929096b5bf9356a28bde1bee512f13afaf3c18e187a": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0",
+                "ori(reservePool) < reservePool",
+                "ori(reservePool) != reservePool",
+                "ori(glbDebtVal) < glbDebtVal",
+                "ori(glbDebtVal) != glbDebtVal",
+                "ori(lastAccrueTime) < lastAccrueTime",
+                "ori(lastAccrueTime) != lastAccrueTime"
+            ]
+        }
+    ],
+    "0x2228d8e07d97a1e8389ad9be3e44dcab90e0671d83dd17ec96741eb6a900c7d8": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0xeef0e75458bb1aa6a3e624fc7744acd25c6d2d877a7b412c64fa6a4cbb0a2ad2": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x40042e635a3209124ec32e9522e190e8f7dd0386ebe645ca4821a76be52987a1": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfae50826439e58f906fa3f15195630148e5d238f70d4c4b7bec3c4c5bffc12a5": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x98eafb4d62a7ba19af023483978f7dfad8e008b986e46799694f0c3a7d170fcd": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd5d643aaa914fe6d796469f116ac72681c6239b59f79336942182bd3ed1674bd": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x32eb3c3d2d7e19f175005441730b32414f7d6e25a8171cc37da5891fa0bf0b24": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0a524df9ecca39ecef72766ca0aac1ca63836f1bf6a3a296b37ec880dc3710eb": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x09fdeda500e5c78552ac56969ee292d01673cece89aaa1c80eee756cad4f5706": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6d901beba1d065268f7127adb74f4b0b90de9bc91756827975bfbd75b90e705f": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0",
+                "_balances[msg.sender] == 0",
+                "ori(_balances[msg.sender]) == share",
+                "ori(_balances[msg.sender]) <= share",
+                "ori(reservePool) >= _balances[msg.sender]",
+                "ori(reservePool) > _balances[msg.sender]",
+                "ori(_guardCounter) >= _balances[msg.sender]",
+                "ori(_guardCounter) > _balances[msg.sender]",
+                "ori(decimals) >= _balances[msg.sender]",
+                "ori(decimals) > _balances[msg.sender]",
+                "reservePool >= _balances[msg.sender]",
+                "reservePool > _balances[msg.sender]",
+                "share >= _balances[msg.sender]",
+                "share > _balances[msg.sender]",
+                "_balances[msg.sender] <= ori(lastAccrueTime)",
+                "_balances[msg.sender] < ori(lastAccrueTime)",
+                "_balances[msg.sender] <= lastAccrueTime",
+                "_balances[msg.sender] < lastAccrueTime",
+                "_balances[msg.sender] <= _guardCounter",
+                "_balances[msg.sender] < _guardCounter",
+                "_balances[msg.sender] <= nextPositionID",
+                "_balances[msg.sender] < nextPositionID",
+                "_balances[msg.sender] <= ori(nextPositionID)",
+                "_balances[msg.sender] < ori(nextPositionID)",
+                "_balances[msg.sender] == msg.value",
+                "_balances[msg.sender] <= msg.value",
+                "_balances[msg.sender] <= decimals",
+                "_balances[msg.sender] < decimals",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "0xc00e1d9d65d1674b2281f19c99b27112508662fa3f432599a2f8ec74ad4a516c": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x32acd579ae6a3385cfdbb601e20339ced61dd95da567b18d96bec7ba7c13c99c": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6c35f5520bdf761b49d507f379755dee35bd3f025614113334ac2190a8f0585f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8f1f4e40c80649766f6fb5af7ad1aafae211885013fe866999b0a71f58351351": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x63c1057829b3a51ba6691d2fb80813abbf5d464ef00eb4bc477878ca6a371871": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd90e2407afa446c328d0de2dbe4c13a98561ce356a33de5f6771cf8c8ec1ad1f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa974a70f5ce7f2d4d51c3747143b5c22aee36d0db1ef1996111a0e7a9a9cb5eb": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc142f76b2c0126a4076baba7278d1513a28d6d74124adde317e2ca2cf1483778": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc708deb0088767c686335b6331239ac5b11f33540ce51356f76739e979516356": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x698ce5f50f354449cf8294cae791f6ac3fa4afb754946b82073298bdd288576c": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0ebd9582900b1ec2789d9f1486e01cb7e44562cabe60b8385b2aa2ada9aca2c5": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xee01c3ddea2a86d6d8fe3e6642d0a13ca54c968972d279a3d8ee5e08068d4b19": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x25662f59142a486213fae50d65fbb1937d5c6081721653d888a86990adaf4f4f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5bdf554b1b4271c599e9d6c7885d9f8e7b7775da20c73a9359c957f8fa2e4bb7": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x518e2598d692153c2c23578fead0ee24352e1cb01d0759cec7f93a78527582e1": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xfa999e3bd3dd8299b3ce4330abfc3b375d57aa8cea4f84539244833b1b62cce5": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x829da51068c2956ac44973d611f6039a71d5140b7196d6ab001348099a6ab0ff": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe3ef6ae4bd880313b704bb8b284bf2b500412da88f5060b0e64b56f2e90c5ff2": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xaaf433f7cffbc5d78800515bd5828c35d51bd36f4f33a6b3bebb5a4dda0f5b28": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd5734fb467f81bf6543441037e2224f015a6053194d422609717711a2401c8d6": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1e0f14a2ebd48a2b6857cf838dae81b0d75b8dd305323c7c0bab5797d38068b1": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xeeefd6706791204676882c57708290138f41d40385ee12591810ced9a4f336cb": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4f73b770bc491b600a2adbba15fe83b31fd8bc524e05e5bade7f8df264f81c4b": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x336b0cdd0b16e8545c0b7dce4a83bb1b04317fa6776c0562abf12e2533db7bc4": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6b579ff9b6e9b3b9fb279edc4d98d4374a66fe0617c4f99895064d274cb022ae": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6ff9594f7b2c1af4becdc38b0e3d2291903626b5c2d7fcd0c126adbbc49bab67": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x70785f94a12bef6f2bb0f37bd227470688f16245f4420edf6c34561dc5264d04": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x36473d949e30c368c89936c32cf2ccdcb9ba87995639f3bfa5777569ac7e065e": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x39dad9317dcad2e6e36cc08aa7bb8c38eb2f697d135c9653966d62994da71e98": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x367ca7add2abc6028772ccade3d7bb6bb15d7fb83d7413f7f4b6124aa8892758": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x0186984e260d5b1b35f647fbf4e6bc63aa4279981747f250b8af16376bb14ec2": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf6f76d0061a242cef941d9f99c86b0d1ce4a1b40c3ccb4626c8f260afed9f045": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x734e7b80c073df44f74944a80e38b863c4bf7b9863025ef0833d4feb8227d5cf": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x874e3a281a9fccbd692c88b8eea7277a52f7d66c6b4e59189fe743dbba28c9f1": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x8b2705e0ae42e6ee4ddbd26e88799722c96e3ef4f4983842c3cf88fa5695f63b": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0xecd7ee5e4c6baa18508f10f467571811c35fd451faee015d31509fa3c54c9cd2": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9c885a6177af2e898a54a1690c2616c9f8505432a40f28d59f38585208fed53d": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc6487249dd46072f7ddf0a9861c1ca88f9f03de00206e6cb8e00a70975acf60e": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd595b3d703b156fa7f51c2c49a5642308a01bd7da6daeb55744b7b00c8ed52d1": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5f932eb9d4f9122e998bf1d3508e3612d8cbc6970a695bc723cd0a39daa51ad5": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2c9a40c0a22847ec4991b93ec4ee7010e642e476b320ecc61021a6b7b433e71c": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x82d3ad82bbebf7cb984cc24adb4b43fb6d175ef5bb7326ecca38dbf2e68fd23f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xffbdb6400426af912c986e21e8f5fec49ced1ab88684b28656480076bdafb952": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x49a4e0b0cb1462bebd0fb206ba2d22ae405f2cf08517526587ffb3df85efb0fa": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7a4a46a0b85a6301af74b918d9858c90810192ff7f6c00ac4e224fc6c37d1bb1": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x819ac4b164e83c0289f90933f51e4ed1f66965841b74d662556743f5e868ef23": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x29fa6609c5cb00e67abd5c4b68d8534ef4f8d38bda7dcfb4ee75c39041a822d9": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xab4a3d909fe66fcbdbe9d13cc410e004548d4610510354b000d80ad48ce4b57d": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc0805d0ec47864750793278cab5970a4da84e80ad77078bd030ccc8b61ddef9c": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5c3e2c0dea1fbc9649bb2ab46bed98dd1e4a84b64a20431a94b9ccf93fd86158": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x77aeb273d236e647249fc1d347adb95a01a70f18c5a4e87769d5a54c1435d241": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb433fc3021a193d9449bd4819a61087284b59d504fc2c6d2d175900003f9b6e5": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x654400e5070bae9ef8e2684f29ecc3303152a9fb57b6f7b7934e3bb4e6c3da00": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xac84bf14fc5edc8484927a34c8f965f85cb02caa2e11ee8a2c416efcccdbf6ad": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x35537f63fb77044d26614575f32f904a2586bbb317243a79489ac702e3d5a31a": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x53f65d603b667cdfe130baff909d7e65ec0a9f3ff5bb640058f76bdf8b3d6418": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0xc1056aca0266ae119034e79a005dbdb3823e56e953790343fd77ed2b5f83eac6": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x65547187eadba00836433d095e4f5b3907ce3f70ae21321a373dda34fe96d561": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xef0cc86dea38d7427ee8ee7673a181d1a32cef2e13596f445dc0ed191a0c309c": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc5a58aa6e7375bada01c4a912075ce974ac3918b26dfd8725b018a074e03c1a4": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x655f6afd94aadc90104b8ff51d593cba9477826ba6b8a02b7e4d997b917b8486": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0xc498820513d963b2735383eaa60cbaf24a0346d5a9a5691eb9db0709bc2eedc0": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x31754650aae42b14f473483eba3e82ce6d106de04c386e9eba5e6f83abcca81f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x9ccb609a76b7840b4e9ee18501867e1ad3ad97df9c5cbdef929d9ff2e6058181": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3673bf4a59271ab19aa961c62d2504a3100577841a70c7b82fcca9f3ffe10381": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x92b3468ce8d3f75105e0b0f4faed6fd186f2693ea633cf35d7b98206b148a5a1": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x82fba06c079bbd9d2756d43176e9d21e1d7025e05851d62a52ca37883b7e0f7b": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xafb395062a84b77126c23e2eb6e42cc53639623565af43f0b9ca9fdfe8f17619": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x1ecc5c9ee82e64dfb7d9b24a6f8b0ee3c419be806d62233fa868a248baadf115": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb028356782fe855275e0c9f4a4b82e595ed993871bff8138a7c0a3f743a7afad": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb709b63651e5403375a5f4acad5634b2ca5b99088d831fbd0aa4da99f94601b8": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2da9bf7d6ba65e98652b0845037d8e4fb89387112e062693d3a23ca1d7e5a28f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x6f61f4b94ca1532e6f5951e72b60c5a881bd19cc1e856ef1e92dcb08659e79f7": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdc08e6fbb260794307e47ee74af84636b7e3842db7d6a6f62c946532ebde68e0": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb3158be579e7961f6c261ae6e0869e18c11eae765dc2482eb65dce972179974a": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd2359249fdc7afa2792592e9a4e5b36c6a55d310e7a7b59aa6842d87729789bf": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf7c4f4b5fe7b9f770f57bd333c17e06cdc5bedbe748c968a69e460a099a31dec": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0xf4ea47ff9a85b39ca3cba641876304fc427083cecb42950231b68cc32bf977bd": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8d03197907714421ac6a5d0f5c54714065a9cf36adbfc82f6df719b4512c880b": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe5fc6a5533708b579dbe2d8fd10d6e6600a308d736f896895ab924be05953977": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3766323e4ee448eef3cc2ba1ca7d71a7221d3f527723a59153cb6d9497f1ded7": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x05c8f1941ca851010f146de5303d07c0386b9a3f6ba9e18d26b3bf276fb861e2": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x34293bafbba5545bf81f57545e54ef1ace89ef79f6e5b3191180ccd70922b7b5": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdcf9e870c8f00fafa3576cdf1fe2fef265b50a565c3a841e860eaa30257cbd92": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x74bcbc4ef837dde213931c820bdb2894dedd4e72343e66e289f270e3fb8e9172": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2cde71ae92eb1824603ebf9b9cbc8203f7fcc91335c4167962030555148750bf": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x967b58d62e8c4d570eed7263c356e487ba22122b2d031d3f396edc63042fc521": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x452ff8c4287d559a39d5aacae0a95f1d622ae811dcd665ec10741b8f08cb63e7": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x2264be1309be4b6e178593930ee79c2f6e7ff2e7200eafa88eda5d6b88b99090": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x38c6c4df3e7a4fa9f4e2fd6933417a16f7206e9cdfe850c635b451c2eca29756": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8d61e9864d24a447c8277d1bd1b28eee0bfe7aabdea9fa86a75531a9ddb3b5d8": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x9b6ce564680d2281e23421cd80e9248dbc0c242dd55dd05ef9229e53d384f770": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x46eac9ead78ab342f336c3fe71d4089035375d5faa474ae9a51aa45dab2c8a7f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x4beced7b0e0c8ce412746e340e6c4ed2c25a8442b70c01d6e267bce839979cf0": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xb1ff592bf0dce23ae2c8e933a0b8a607f57c2dd58a434468f0e0b5e1b2cc3f6c": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xd1e2a38da82f582d554bcd25eba34d90f6d991cb52e55f6ee56bb3c4d327d28f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x56e7637b4d5bca816c4c6159a9bb41ff77acd728a4e5caeba366ec162e0e2626": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdfc08a0a97100fd0bf9c841c8c36a65534be671bc1363d9d4c9792cc6d7b95e1": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf3a3816d361c789fe2b3553101ff75eb9762f0ba1a3ce732c15f6808da2b6060": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x03c897013b0b38beb955e6807bceacdb9cee8f0636a55af7ded1d095fae687a8": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x61d94b6477369dfdb84635de1b5ed588e20fc5c2de4e857a9f8667835392c4ed": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x17f5fc554985388d0ed6fca39d82c3ab5c0a06202e1e0a1dc9ba00946840c0a0": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x98d6c7abd01e693495f8fa7ec883ca5ba596b1d18426b7b09218f136d497934b": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xeee847beaa60ab12f585dd82b9e512cda8e9e4493659e635282a58d4ec2961aa": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x31867c362ed5e72a8297f41072b4fa242ff242cdd8de705c02c6fcf32ff4de7f": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xe68098464cc68aa300b59ff9a69f0f6fa03b3c7366620f4f4785bc3dcc0882ae": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x7ad2c95f25268499701733abd4ea05e410136024cd313406a46ae6da3a9b191b": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x513c6596715fa45dca462c572db5870ff59f9850242a4bbdef26507104be5b5a": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xaaec62bb9a9a08c0a4f701688fc27026e91bc072d614e9def2bd8439f901f11a": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xcf75be15fba4402de2c8c9ec7cc97515852b038e2f6f952a2ea16d24f6540b0a": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xdfd56d0633f6b5723d40bf01686c1cc0f7e1a022801175fc8510ba97acb57d95": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf12f66fa64f587dd463e41c0d5c7b2698e04d41fcc7e0721d4712c1f949d1868": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x85a4221c80d7b14750ea584113d58a2982ef545977d8aafb348f9504f6318efb": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5b8e71573092e7c1dbeb91bc7b7723ffaccfd7a5db5bfa8d756f05d13d54ebe3": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x161e07766879c1c0a75bf4e1ab5c10ba2eae807fc767a94b1fc8f74413744455": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x85c7f2ffea78d281ed807df149635bb6124eb56032f4686a1b3af686428dec0f": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0x3c592b8935aeebc3502702d6105e429aa66c9bd521df73053c6d984d32ec14eb": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5566f80eac87d77cfab711eb27e55f872d1464ac76240c52c43c0344c5271d29": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x130de94d120f4f28cf439069b8a8a71f849b32b96c45b55e0a542efbbe0ea784": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8e7c28b918925e588a3d3c22b155d07712e2dc171d5c672f50f1ae6ec0c9cf68": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ],
+    "0xaf46529329a010b27eae7e6cb44aba044dc0af9f25600df06005594cd4e74f50": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x8f18b70f4034953074075bc952cd936197cf5e0996770c849282afef73949755": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xc313b5b996ce76c5abc74df502fcff0daa6304416421b549d500e0fed83d9521": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xef6d087448dbd134e882a0878e501639ad63aa7b5a9987412ee87091c9efb4da": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xf55baae3584bd457c17fbab1cf4434e4debb53252589ff0c195e6b1ec3256918": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0xa0a1d322ec1cd686f9f34ebaccb9b776435b9fda5ae152b0dde61d6c31b0c8c8": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3e610abcebb1f5262ba7303cc93d8117dcf478457bcd2f2e98aecea412c52814": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x40990f8d099c122b5fee20433f8fc8116853c2703dbb187965f7e16d25856649": [
+        {
+            "func": "work(id,goblin,loan,maxReturn,data)",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x5141b9d3fd951b56102ba3fa5a11948b5dd1fbc06dc4b8ce4a3abf037aca3589": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x3cdc4ec81423aa440b29cca333dbd1c9acfc7bbd1b2c4525a27517284d6ceeda": [
+        {
+            "func": "deposit()",
+            "reverted": false,
+            "violated_invs": []
+        }
+    ],
+    "0x24db65811aa910097033cb2cc417bc39785b5219ca3e19814348dc595b0a52aa": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0",
+                "ori(reservePool) < reservePool",
+                "ori(reservePool) != reservePool",
+                "ori(glbDebtVal) < glbDebtVal",
+                "ori(glbDebtVal) != glbDebtVal",
+                "ori(lastAccrueTime) < lastAccrueTime",
+                "ori(lastAccrueTime) != lastAccrueTime"
+            ]
+        }
+    ],
+    "0xd98d325261370cb05e9adbcfd8cad1791fc3cc5b76283c0caf4e0d6cb1b93c1e": [
+        {
+            "func": "withdraw(share)",
+            "reverted": false,
+            "violated_invs": [
+                "_balances[msg.sender] == 0"
+            ]
+        }
+    ]
+}

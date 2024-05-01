@@ -1,0 +1,11 @@
+# The following is what is required by Trace2Inv
+
+eth_abi==4.2.1
+hexbytes==0.3.0
+networkx==3.3
+numpy==1.21.5
+packaging==21.3
+Requests==2.31.0
+slither_analyzer==0.10.1
+tinyrpc==1.1.7
+toml==0.10.2
