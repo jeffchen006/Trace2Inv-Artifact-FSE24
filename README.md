@@ -145,6 +145,9 @@ Step 3: Check Execution Results
 
 Compare RQ1RQ3Results/RQ1RQ3-Results.txt with RQ1RQ3Results/RQ1RQ3-Expected.txt and Tables 5 & 7 in the paper.
 
+Note the positions of DataFlow and MoneyFlow results could be swapped in the output file, but the content should be the same.
+
+
 Compare RQ2Study/RQ2-Results.txt with RQ2Study/RQ2-Expected.txt and Table 6 in the paper.
 
 Compare RQ4/RQ4-Results.txt with RQ4/RQ4-Expected.txt and Table 8 in the paper.
